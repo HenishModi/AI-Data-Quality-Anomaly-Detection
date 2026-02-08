@@ -99,4 +99,10 @@ pyod>=1.0.8
 
 - Cloud integration (Azure/AWS) for automated pipelines  
 - Interactive dashboards using Power BI or Plotly  
-- Advanced ML models for anomaly detection (Isolation Forest, Autoencoders, etc.)  
+- Advanced ML models for anomaly detection (Isolation Forest, Autoencoders, etc.)
+
+- 👤 Author
+
+Henish Modi
+Data Analyst | AI & Data Quality Enthusiast
+
