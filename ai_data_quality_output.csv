@@ -1,0 +1,1001 @@
+account_id,loan_amount,interest_rate,credit_score,payment_history,balance,region,last_transaction_amount,age,income,account_type,is_anomaly,ai_explanation
+1,46410.93,4.14,642,"[0, 0, 0, 1, 0]",45410.93,British Columbia,406.38,68,82666.72,Business,0,This record falls within expected operational limits.
+2,166784.04,4.43,593,"[1, 0, 0, 0, 0]",165784.04,Alberta,1601.2,33,38887.82,Business,0,This record falls within expected operational limits.
+3,37388.54,5.69,715,"[0, 0, 1, 0, 0]",36388.54,British Columbia,1200.8,68,70207.36,Business,0,This record falls within expected operational limits.
+4,56830.03,7.84,469,"[0, 0, 0, 0, 0]",56830.03,Ontario,1240.13,39,113440.29,Business,0,This record falls within expected operational limits.
+5,80589.79,3.98,667,"[0, 0, 0, 0, 0]",80589.79,Alberta,998.72,58,69043.87,Business,0,This record falls within expected operational limits.
+6,49570.68,6.74,620,"[0, 1, 0, 0, 0]",48570.68,Manitoba,3112.08,70,74640.53,Mortgage,0,This record falls within expected operational limits.
+7,80798.69,7.66,591,"[0, 0, 0, 0, 0]",80798.69,British Columbia,3730.88,26,68298.91,Personal,0,This record falls within expected operational limits.
+8,63512.37,8.98,511,"[0, 0, 0, 1, 1]",61512.37,British Columbia,306.51,47,22489.48,Business,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+9,109424.7,5.38,631,"[0, 0, 0, 0, 0]",109424.7,Quebec,1178.27,57,105639.25,Business,0,This record falls within expected operational limits.
+10,103905.46,5.39,641,"[0, 0, 0, 0, 0]",103905.46,British Columbia,-336.74,39,127725.85,Personal,0,This record falls within expected operational limits.
+11,36100.29,5.75,529,"[0, 0, 0, 0, 0]",36100.29,Quebec,2566.71,55,22018.7,Personal,0,This record falls within expected operational limits.
+12,98130.96,4.8,648,"[0, 0, 0, 0, 0]",98130.96,Alberta,-71.61,53,40716.1,Personal,0,This record falls within expected operational limits.
+13,79714.28,7.62,661,"[0, 0, 0, 1, 0]",78714.28,Quebec,4272.29,28,70938.98,Personal,0,This record falls within expected operational limits.
+14,113201.26,6.09,619,"[0, 0, 0, 0, 0]",113201.26,Ontario,977.47,52,75818.29,Personal,0,This record falls within expected operational limits.
+15,124242.97,5.17,720,"[0, 0, 1, 1, 0]",122242.97,British Columbia,1522.46,35,106309.7,Business,0,This record falls within expected operational limits.
+16,6584.15,6.1,731,"[0, 0, 1, 0, 0]",5584.15,British Columbia,1713.63,53,65667.77,Personal,0,This record falls within expected operational limits.
+17,56659.97,5.4,504,"[0, 1, 0, 0, 0]",55659.97,British Columbia,4509.66,53,46184.88,Business,0,This record falls within expected operational limits.
+18,85529.9,6.27,664,"[0, 0, 1, 0, 0]",84529.9,Alberta,-306.3,46,46230.75,Business,0,This record falls within expected operational limits.
+19,43143.44,4.24,630,"[0, 0, 0, 0, 0]",43143.44,Quebec,4496.93,58,97053.37,Business,0,This record falls within expected operational limits.
+20,44082.26,5.53,617,"[0, 0, 0, 1, 0]",43082.26,British Columbia,2610.25,35,87996.02,Mortgage,0,This record falls within expected operational limits.
+21,66315.86,4.69,635,"[0, 1, 0, 0, 0]",65315.86,Quebec,2142.65,33,97219.24,Business,0,This record falls within expected operational limits.
+22,45791.77,5.68,660,"[0, 0, 0, 0, 1]",44791.77,British Columbia,4725.22,34,105469.2,Business,0,This record falls within expected operational limits.
+23,104323.75,4.72,603,"[0, 0, 0, 0, 1]",103323.75,Ontario,1283.74,63,87099.2,Personal,0,This record falls within expected operational limits.
+24,113938.89,5.61,598,"[0, 1, 0, 0, 0]",112938.89,Ontario,1617.5,28,100273.23,Mortgage,0,This record falls within expected operational limits.
+25,48427.76,5.42,562,"[0, 0, 0, 1, 0]",47427.76,Ontario,4328.32,25,88887.53,Personal,0,This record falls within expected operational limits.
+26,121741.82,4.8,632,"[0, 0, 1, 0, 0]",120741.82,Alberta,-484.76,30,61668.74,Business,0,This record falls within expected operational limits.
+27,93944.19,6.88,667,"[0, 0, 0, 0, 0]",93944.19,British Columbia,2377.32,66,115794.68,Business,0,This record falls within expected operational limits.
+28,72797.73,3.69,655,"[0, 1, 0, 0, 1]",70797.73,Ontario,2568.04,68,80101.3,Mortgage,0,This record falls within expected operational limits.
+29,21906.35,5.25,681,"[0, 0, 1, 0, 0]",20906.35,Ontario,318.0,59,73379.2,Business,0,This record falls within expected operational limits.
+30,145602.44,5.74,620,"[0, 0, 0, 0, 0]",145602.44,Ontario,1004.27,67,83765.59,Personal,0,This record falls within expected operational limits.
+31,-8806.08,6.34,736,"[1, 0, 0, 0, 0]",-9806.08,Ontario,1973.75,55,74862.37,Business,0,This record falls within expected operational limits.
+32,143915.25,5.16,528,"[0, 0, 0, 0, 0]",143915.25,Alberta,3787.46,48,119900.0,Personal,0,This record falls within expected operational limits.
+33,183716.63,6.8,734,"[0, 1, 0, 0, 0]",182716.63,Alberta,2328.24,67,114126.99,Mortgage,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+34,77927.33,5.14,563,"[0, 0, 0, 0, 1]",76927.33,Alberta,1941.88,27,60849.14,Mortgage,0,This record falls within expected operational limits.
+35,63401.71,8.19,661,"[0, 0, 1, 1, 0]",61401.71,Manitoba,349.3,37,58483.14,Business,0,This record falls within expected operational limits.
+36,117837.52,8.21,624,"[0, 1, 0, 0, 0]",116837.52,Manitoba,2152.52,33,126121.15,Mortgage,0,This record falls within expected operational limits.
+37,103047.46,5.33,596,"[0, 0, 1, 0, 0]",102047.46,British Columbia,2702.44,61,92579.66,Business,0,This record falls within expected operational limits.
+38,31912.02,4.87,790,"[0, 0, 0, 0, 1]",30912.02,Ontario,1203.35,56,81580.86,Personal,0,This record falls within expected operational limits.
+39,12572.92,4.93,631,"[0, 0, 0, 0, 0]",12572.92,Quebec,2195.99,47,47804.17,Business,0,This record falls within expected operational limits.
+40,59997.49,7.91,634,"[0, 0, 1, 1, 0]",57997.49,British Columbia,1859.02,59,94038.01,Personal,0,This record falls within expected operational limits.
+41,102324.64,4.28,786,"[0, 0, 0, 0, 0]",102324.64,Alberta,2023.93,46,75197.38,Personal,0,This record falls within expected operational limits.
+42,126413.89,3.57,776,"[0, 0, 1, 0, 0]",125413.89,British Columbia,4856.72,70,92199.99,Mortgage,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+43,110241.75,5.13,571,"[0, 0, 1, 0, 0]",109241.75,British Columbia,3276.02,46,101046.34,Mortgage,0,This record falls within expected operational limits.
+44,120426.7,6.34,615,"[0, 1, 0, 0, 0]",119426.7,British Columbia,3043.74,39,48642.18,Personal,0,This record falls within expected operational limits.
+45,-4243.54,4.6,604,"[0, 0, 0, 0, 0]",-4243.54,Manitoba,1053.23,55,133910.57,Mortgage,0,This record falls within expected operational limits.
+46,53803.4,3.77,572,"[1, 0, 0, 0, 0]",52803.4,Quebec,1937.57,38,117828.91,Mortgage,0,This record falls within expected operational limits.
+47,95547.47,5.98,543,"[0, 0, 0, 0, 0]",95547.47,British Columbia,904.07,42,65959.47,Mortgage,0,This record falls within expected operational limits.
+48,56115.86,6.11,631,"[0, 0, 1, 0, 0]",55115.86,Manitoba,80.74,39,59354.04,Personal,0,This record falls within expected operational limits.
+49,73459.21,4.52,578,"[1, 0, 0, 0, 0]",72459.21,Manitoba,1266.88,24,76059.37,Personal,0,This record falls within expected operational limits.
+50,71965.63,5.56,650,"[0, 0, 0, 0, 0]",71965.63,Alberta,608.97,57,75238.6,Mortgage,0,This record falls within expected operational limits.
+51,57400.16,6.24,617,"[0, 0, 0, 0, 0]",57400.16,Ontario,653.9,44,98190.01,Mortgage,0,This record falls within expected operational limits.
+52,75475.81,5.62,637,"[0, 0, 0, 0, 1]",74475.81,British Columbia,3705.03,57,141910.65,Mortgage,0,This record falls within expected operational limits.
+53,158035.6,6.08,606,"[0, 0, 0, 0, 0]",158035.6,Quebec,2334.51,43,146910.91,Mortgage,0,This record falls within expected operational limits.
+54,55176.64,5.71,673,"[0, 0, 0, 1, 0]",54176.64,Ontario,5546.62,63,53869.34,Business,0,This record falls within expected operational limits.
+55,122621.44,3.85,670,"[0, 1, 0, 0, 1]",120621.44,Alberta,2648.22,59,66657.78,Business,0,This record falls within expected operational limits.
+56,84547.49,5.94,695,"[0, 0, 0, 0, 1]",83547.49,Quebec,1663.58,43,116588.84,Personal,0,This record falls within expected operational limits.
+57,139801.75,5.57,671,"[0, 0, 0, 0, 0]",139801.75,Alberta,-1468.62,22,129095.54,Business,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+58,69316.03,5.72,729,"[1, 0, 0, 0, 0]",68316.03,Ontario,3926.86,59,118690.26,Business,0,This record falls within expected operational limits.
+59,9380.34,5.56,594,"[0, 1, 0, 0, 1]",7380.34,Quebec,1719.38,54,121276.65,Business,0,This record falls within expected operational limits.
+60,-7331.86,4.0,675,"[0, 0, 0, 0, 0]",-7331.86,Ontario,1407.93,47,72789.63,Business,0,This record falls within expected operational limits.
+61,134614.32,5.57,614,"[0, 0, 0, 0, 0]",134614.32,Quebec,2173.47,39,124090.12,Personal,0,This record falls within expected operational limits.
+62,-11651.0,5.01,574,"[0, 0, 0, 0, 0]",-11651.0,Alberta,2755.64,42,65016.54,Business,0,This record falls within expected operational limits.
+63,108870.61,6.4,681,"[0, 0, 0, 0, 1]",107870.61,Manitoba,463.12,31,62321.19,Personal,0,This record falls within expected operational limits.
+64,135130.31,4.6,598,"[0, 0, 1, 0, 0]",134130.31,Ontario,2406.39,59,47995.48,Business,0,This record falls within expected operational limits.
+65,126158.17,4.95,668,"[1, 0, 1, 0, 0]",124158.17,Ontario,1922.62,22,123776.53,Business,0,This record falls within expected operational limits.
+66,91785.57,6.45,627,"[1, 0, 0, 1, 0]",89785.57,Alberta,3026.69,41,80499.25,Personal,0,This record falls within expected operational limits.
+67,58323.26,4.75,609,"[0, 0, 0, 0, 0]",58323.26,Alberta,1302.64,32,49069.04,Personal,0,This record falls within expected operational limits.
+68,136473.06,4.43,617,"[0, 0, 0, 0, 0]",136473.06,Quebec,3642.22,61,96382.8,Mortgage,0,This record falls within expected operational limits.
+69,91530.64,8.77,718,"[0, 1, 0, 0, 0]",90530.64,Manitoba,3490.58,45,73327.33,Mortgage,0,This record falls within expected operational limits.
+70,86690.67,6.74,775,"[0, 0, 0, 0, 0]",86690.67,Manitoba,637.86,34,40728.68,Personal,0,This record falls within expected operational limits.
+71,61437.95,3.14,772,"[1, 0, 0, 0, 0]",60437.95,Quebec,1886.18,43,87155.09,Business,0,This record falls within expected operational limits.
+72,19292.35,5.62,599,"[0, 0, 0, 0, 0]",19292.35,Alberta,737.53,27,71178.07,Mortgage,0,This record falls within expected operational limits.
+73,112680.49,6.94,698,"[0, 0, 0, 0, 0]",112680.49,British Columbia,953.56,49,110662.49,Personal,0,This record falls within expected operational limits.
+74,94589.65,3.73,726,"[0, 0, 0, 0, 0]",94589.65,Manitoba,3571.79,67,93651.55,Business,0,This record falls within expected operational limits.
+75,78968.63,4.45,650,"[0, 0, 0, 0, 1]",77968.63,British Columbia,5063.83,50,125115.32,Mortgage,0,This record falls within expected operational limits.
+76,61642.32,4.64,588,"[0, 0, 0, 0, 1]",60642.32,Alberta,814.03,51,51182.08,Mortgage,0,This record falls within expected operational limits.
+77,75871.06,6.66,596,"[1, 0, 0, 0, 0]",74871.06,British Columbia,-1358.06,59,95397.39,Business,0,This record falls within expected operational limits.
+78,241454.96,2.93,672,"[0, 0, 1, 0, 0]",240454.96,Quebec,1888.8,27,65266.19,Personal,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+79,59456.78,6.32,682,"[0, 0, 0, 0, 0]",59456.78,British Columbia,2890.8,29,70449.25,Business,0,This record falls within expected operational limits.
+80,60639.92,6.48,733,"[0, 0, 0, 1, 0]",59639.92,Manitoba,451.74,22,43982.32,Business,0,This record falls within expected operational limits.
+81,44428.41,4.05,703,"[0, 1, 1, 0, 0]",42428.41,Quebec,1454.56,30,91590.91,Business,0,This record falls within expected operational limits.
+82,100363.58,2.77,590,"[0, 0, 0, 0, 0]",100363.58,Manitoba,1246.25,21,50822.26,Business,0,This record falls within expected operational limits.
+83,136596.74,6.06,694,"[1, 1, 0, 0, 0]",134596.74,Alberta,1002.92,50,79387.65,Personal,0,This record falls within expected operational limits.
+84,152747.97,2.78,726,"[1, 0, 1, 0, 0]",150747.97,Manitoba,652.18,69,13510.79,Business,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+85,50201.49,3.83,594,"[0, 0, 0, 1, 0]",49201.49,British Columbia,1640.55,42,138850.65,Mortgage,0,This record falls within expected operational limits.
+86,14769.41,5.85,803,"[0, 0, 0, 1, 0]",13769.41,British Columbia,2499.46,66,48123.8,Business,0,This record falls within expected operational limits.
+87,18526.53,4.83,776,"[0, 0, 0, 0, 0]",18526.53,British Columbia,5326.48,47,125450.1,Business,0,This record falls within expected operational limits.
+88,17496.81,3.45,505,"[0, 0, 0, 0, 0]",17496.81,Ontario,1630.99,42,81890.87,Business,0,This record falls within expected operational limits.
+89,57202.64,4.03,680,"[0, 0, 0, 0, 0]",57202.64,Ontario,-545.77,47,118444.5,Personal,0,This record falls within expected operational limits.
+90,29615.97,5.6,642,"[0, 0, 0, 1, 0]",28615.97,British Columbia,2848.25,62,98608.36,Business,0,This record falls within expected operational limits.
+91,77038.79,7.33,609,"[1, 0, 0, 1, 0]",75038.79,British Columbia,4484.19,48,89673.37,Business,0,This record falls within expected operational limits.
+92,8587.48,8.52,733,"[0, 0, 0, 0, 1]",7587.48,Ontario,1282.66,22,77689.02,Mortgage,0,This record falls within expected operational limits.
+93,121374.75,5.91,687,"[1, 0, 0, 0, 0]",120374.75,British Columbia,2492.68,59,87382.32,Business,0,This record falls within expected operational limits.
+94,57446.86,4.45,609,"[0, 0, 0, 0, 0]",57446.86,Alberta,543.59,53,34104.74,Personal,0,This record falls within expected operational limits.
+95,-5682.57,3.76,675,"[0, 0, 0, 0, 0]",-5682.57,Quebec,1951.92,34,40351.97,Mortgage,0,This record falls within expected operational limits.
+96,82858.58,7.36,567,"[1, 0, 0, 0, 0]",81858.58,Alberta,3267.63,27,69703.01,Personal,0,This record falls within expected operational limits.
+97,71356.14,2.85,772,"[0, 0, 0, 0, 1]",70356.14,British Columbia,2398.76,54,63401.29,Mortgage,0,This record falls within expected operational limits.
+98,29968.66,4.48,572,"[0, 0, 0, 0, 1]",28968.66,Quebec,2690.36,57,88820.54,Mortgage,0,This record falls within expected operational limits.
+99,74818.77,4.36,553,"[0, 0, 1, 0, 0]",73818.77,Alberta,5115.48,69,127652.15,Personal,0,This record falls within expected operational limits.
+100,109746.05,3.74,685,"[0, 0, 0, 0, 0]",109746.05,Ontario,1380.04,53,77474.58,Mortgage,0,This record falls within expected operational limits.
+101,137575.18,4.52,622,"[1, 0, 0, 0, 0]",136575.18,British Columbia,2369.13,21,61352.2,Business,0,This record falls within expected operational limits.
+102,98856.28,8.84,488,"[0, 0, 0, 0, 0]",98856.28,Ontario,3078.08,42,141706.48,Personal,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+103,-10707.05,4.73,680,"[0, 0, 0, 0, 0]",-10707.05,Ontario,1261.38,21,116946.65,Business,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+104,31262.06,5.35,648,"[0, 0, 0, 0, 1]",30262.06,Manitoba,1224.69,57,22235.63,Mortgage,0,This record falls within expected operational limits.
+105,15338.98,8.47,557,"[0, 1, 0, 0, 0]",14338.98,Manitoba,3869.28,57,32216.49,Mortgage,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+106,93353.17,6.34,718,"[0, 0, 0, 1, 0]",92353.17,Alberta,2176.7,65,68132.06,Personal,0,This record falls within expected operational limits.
+107,133805.62,3.49,606,"[0, 0, 0, 0, 0]",133805.62,British Columbia,1922.47,66,115517.1,Personal,0,This record falls within expected operational limits.
+108,123155.74,8.23,569,"[0, 0, 0, 0, 0]",123155.74,Ontario,2078.3,23,51274.45,Mortgage,0,This record falls within expected operational limits.
+109,18438.08,4.17,646,"[0, 0, 0, 0, 0]",18438.08,Manitoba,2990.77,46,88482.98,Business,0,This record falls within expected operational limits.
+110,117712.23,4.41,753,"[0, 0, 0, 1, 0]",116712.23,Manitoba,4209.08,23,9818.27,Personal,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+111,92548.33,7.44,800,"[0, 0, 0, 0, 1]",91548.33,Manitoba,5093.11,30,69161.9,Business,0,This record falls within expected operational limits.
+112,115346.61,8.39,672,"[0, 1, 0, 0, 0]",114346.61,Alberta,910.14,60,46348.24,Personal,0,This record falls within expected operational limits.
+113,87479.93,3.91,723,"[0, 0, 0, 0, 0]",87479.93,Alberta,2814.91,28,49355.59,Business,0,This record falls within expected operational limits.
+114,90343.81,8.58,575,"[0, 0, 0, 0, 0]",90343.81,Manitoba,1025.85,59,96570.04,Personal,0,This record falls within expected operational limits.
+115,148780.45,4.78,588,"[0, 0, 0, 0, 0]",148780.45,Quebec,2031.05,41,71888.43,Personal,0,This record falls within expected operational limits.
+116,67995.54,6.54,703,"[0, 0, 0, 0, 0]",67995.54,Manitoba,1800.0,26,111096.01,Business,0,This record falls within expected operational limits.
+117,72320.02,3.85,710,"[0, 0, 0, 0, 0]",72320.02,British Columbia,2264.53,24,83203.02,Business,0,This record falls within expected operational limits.
+118,55477.35,6.89,573,"[0, 0, 0, 0, 1]",54477.35,Quebec,675.4,33,59933.4,Business,0,This record falls within expected operational limits.
+119,163680.06,5.95,626,"[0, 0, 0, 0, 0]",163680.06,Ontario,1715.49,25,82645.72,Personal,0,This record falls within expected operational limits.
+120,33561.87,5.74,562,"[0, 0, 0, 0, 0]",33561.87,Ontario,4772.58,69,102885.29,Mortgage,0,This record falls within expected operational limits.
+121,106190.52,1.53,615,"[0, 1, 0, 0, 1]",104190.52,Quebec,1750.95,32,60675.43,Mortgage,0,This record falls within expected operational limits.
+122,60116.01,6.17,675,"[0, 0, 0, 0, 0]",60116.01,Quebec,3782.7,28,61476.14,Mortgage,0,This record falls within expected operational limits.
+123,127440.95,4.27,732,"[0, 1, 1, 0, 0]",125440.95,Manitoba,2969.12,68,90746.78,Mortgage,0,This record falls within expected operational limits.
+124,36768.46,6.94,681,"[0, 0, 0, 0, 0]",36768.46,British Columbia,2670.32,25,80390.81,Business,0,This record falls within expected operational limits.
+125,119834.78,3.55,680,"[0, 0, 0, 0, 0]",119834.78,Alberta,2939.16,21,75969.45,Mortgage,0,This record falls within expected operational limits.
+126,89112.02,9.08,801,"[0, 0, 0, 0, 0]",89112.02,Quebec,3759.29,45,52670.44,Mortgage,0,This record falls within expected operational limits.
+127,2602.93,3.48,656,"[0, 0, 0, 1, 0]",1602.93,Alberta,1623.99,24,107731.12,Personal,0,This record falls within expected operational limits.
+128,124244.08,8.67,624,"[0, 1, 0, 1, 1]",121244.08,Manitoba,1249.77,39,85746.73,Business,0,This record falls within expected operational limits.
+129,103433.62,4.66,692,"[0, 0, 0, 1, 0]",102433.62,Manitoba,-1029.44,54,86934.6,Personal,0,This record falls within expected operational limits.
+130,56417.33,6.76,712,"[1, 0, 1, 0, 1]",53417.33,Quebec,1093.35,42,82099.73,Mortgage,0,This record falls within expected operational limits.
+131,108987.21,3.93,704,"[0, 1, 0, 1, 0]",106987.21,British Columbia,3229.32,29,82406.47,Business,0,This record falls within expected operational limits.
+132,89379.49,3.3,620,"[0, 0, 0, 0, 0]",89379.49,Quebec,2751.69,21,79485.69,Business,0,This record falls within expected operational limits.
+133,146932.75,5.01,672,"[0, 0, 0, 0, 0]",146932.75,Manitoba,2886.42,58,40167.36,Mortgage,0,This record falls within expected operational limits.
+134,-11498.05,5.38,719,"[0, 1, 0, 0, 0]",-12498.05,Alberta,3264.42,53,109004.71,Business,0,This record falls within expected operational limits.
+135,20493.7,5.47,694,"[0, 0, 1, 0, 0]",19493.7,Manitoba,4780.51,49,85716.7,Personal,0,This record falls within expected operational limits.
+136,41627.76,4.54,567,"[1, 1, 0, 0, 1]",38627.76,Alberta,5989.72,55,87709.64,Business,0,This record falls within expected operational limits.
+137,115500.05,4.34,693,"[0, 0, 0, 1, 1]",113500.05,Quebec,3324.7,61,82790.8,Personal,0,This record falls within expected operational limits.
+138,20934.02,4.21,598,"[1, 0, 1, 0, 0]",18934.02,Quebec,2395.11,59,87137.47,Personal,0,This record falls within expected operational limits.
+139,84257.83,6.02,693,"[0, 0, 0, 1, 0]",83257.83,Manitoba,3053.82,64,57938.06,Personal,0,This record falls within expected operational limits.
+140,148295.32,5.33,768,"[0, 1, 0, 0, 1]",146295.32,Quebec,1702.89,68,84427.2,Mortgage,0,This record falls within expected operational limits.
+141,33914.09,7.74,556,"[0, 0, 0, 0, 0]",33914.09,Manitoba,1028.97,55,109240.19,Personal,0,This record falls within expected operational limits.
+142,100196.49,6.99,609,"[0, 0, 0, 0, 0]",100196.49,British Columbia,2183.5,22,35014.68,Mortgage,0,This record falls within expected operational limits.
+143,89739.0,5.42,629,"[0, 0, 0, 0, 0]",89739.0,Ontario,2709.74,53,79746.0,Mortgage,0,This record falls within expected operational limits.
+144,63991.12,3.91,702,"[0, 0, 0, 0, 0]",63991.12,Quebec,2719.68,62,104431.92,Personal,0,This record falls within expected operational limits.
+145,103163.99,4.93,562,"[0, 0, 0, 0, 0]",103163.99,Ontario,2778.87,69,92595.64,Personal,0,This record falls within expected operational limits.
+146,48138.98,8.46,738,"[0, 0, 0, 0, 0]",48138.98,Alberta,4639.66,40,96827.66,Business,0,This record falls within expected operational limits.
+147,111634.71,4.66,523,"[0, 0, 1, 1, 0]",109634.71,British Columbia,280.78,54,59652.35,Mortgage,0,This record falls within expected operational limits.
+148,92728.33,4.0,578,"[0, 0, 0, 0, 0]",92728.33,Manitoba,2817.62,39,78721.74,Business,0,This record falls within expected operational limits.
+149,5365.39,6.2,549,"[0, 1, 0, 1, 0]",3365.39,Quebec,4723.79,69,93287.39,Business,0,This record falls within expected operational limits.
+150,13499.75,6.4,698,"[0, 0, 0, 1, 0]",12499.75,Ontario,735.26,52,105487.04,Personal,0,This record falls within expected operational limits.
+151,50150.94,5.53,611,"[0, 1, 0, 1, 0]",48150.94,Alberta,493.05,44,94245.11,Business,0,This record falls within expected operational limits.
+152,128484.43,8.18,678,"[0, 0, 0, 1, 1]",126484.43,British Columbia,2698.56,68,36409.72,Business,0,This record falls within expected operational limits.
+153,62512.77,7.4,782,"[0, 0, 0, 0, 1]",61512.77,Manitoba,2687.24,47,99865.03,Mortgage,0,This record falls within expected operational limits.
+154,32796.35,5.25,621,"[0, 0, 0, 0, 0]",32796.35,Alberta,959.29,32,84530.27,Mortgage,0,This record falls within expected operational limits.
+155,54717.28,6.65,597,"[0, 0, 0, 1, 0]",53717.28,Ontario,2946.7,29,78693.03,Mortgage,0,This record falls within expected operational limits.
+156,45364.92,3.67,647,"[0, 0, 0, 0, 0]",45364.92,Alberta,3607.23,60,129599.34,Business,0,This record falls within expected operational limits.
+157,28655.27,6.78,604,"[0, 0, 0, 0, 0]",28655.27,Quebec,3132.61,58,69990.82,Personal,0,This record falls within expected operational limits.
+158,89746.38,5.19,531,"[0, 0, 0, 0, 0]",89746.38,Alberta,3665.23,53,144547.7,Personal,0,This record falls within expected operational limits.
+159,56711.45,4.62,600,"[0, 0, 0, 0, 0]",56711.45,Alberta,-2592.96,61,126990.12,Personal,0,This record falls within expected operational limits.
+160,35080.37,5.03,806,"[0, 0, 0, 1, 0]",34080.37,Ontario,634.74,60,76812.38,Business,0,This record falls within expected operational limits.
+161,80764.66,2.41,763,"[0, 0, 0, 1, 0]",79764.66,Alberta,3830.3,51,81889.7,Business,0,This record falls within expected operational limits.
+162,121521.08,4.36,725,"[0, 1, 1, 0, 1]",118521.08,Manitoba,892.02,65,104377.53,Mortgage,0,This record falls within expected operational limits.
+163,126220.07,2.74,821,"[0, 1, 0, 0, 0]",125220.07,Manitoba,5658.83,25,69374.17,Personal,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+164,23340.02,6.29,659,"[1, 0, 1, 0, 0]",21340.02,Manitoba,1821.0,46,48567.89,Mortgage,0,This record falls within expected operational limits.
+165,77007.34,5.85,720,"[0, 0, 0, 0, 1]",76007.34,Manitoba,2581.72,29,111416.19,Personal,0,This record falls within expected operational limits.
+166,129485.87,4.0,557,"[0, 0, 0, 0, 0]",129485.87,Quebec,2441.98,32,107573.79,Business,0,This record falls within expected operational limits.
+167,107020.71,5.88,604,"[0, 0, 0, 0, 0]",107020.71,British Columbia,661.37,48,54540.38,Personal,0,This record falls within expected operational limits.
+168,72425.99,7.36,647,"[0, 0, 0, 0, 0]",72425.99,Quebec,1780.23,40,151494.94,Mortgage,0,This record falls within expected operational limits.
+169,54551.23,4.43,700,"[0, 0, 0, 0, 0]",54551.23,Quebec,784.51,66,23996.18,Personal,0,This record falls within expected operational limits.
+170,49256.67,5.79,615,"[0, 0, 1, 0, 0]",48256.67,Quebec,4335.33,22,44165.97,Mortgage,0,This record falls within expected operational limits.
+171,124882.03,3.41,598,"[0, 0, 0, 0, 0]",124882.03,Quebec,1921.92,55,89351.45,Mortgage,0,This record falls within expected operational limits.
+172,140541.58,3.67,827,"[0, 0, 1, 0, 1]",138541.58,Quebec,1632.07,70,102705.17,Mortgage,0,This record falls within expected operational limits.
+173,53830.53,4.96,691,"[0, 0, 0, 0, 1]",52830.53,Ontario,-171.45,26,104330.78,Personal,0,This record falls within expected operational limits.
+174,66114.02,8.08,586,"[0, 1, 0, 0, 0]",65114.02,Quebec,1597.54,62,68965.84,Business,0,This record falls within expected operational limits.
+175,6955.09,6.52,719,"[0, 1, 0, 0, 0]",5955.09,Quebec,623.4,56,46150.04,Mortgage,0,This record falls within expected operational limits.
+176,20263.6,4.4,594,"[0, 0, 0, 0, 0]",20263.6,Quebec,149.25,57,59480.38,Mortgage,0,This record falls within expected operational limits.
+177,141002.89,7.24,605,"[0, 0, 0, 1, 0]",140002.89,Alberta,5062.92,67,33269.6,Personal,0,This record falls within expected operational limits.
+178,82553.21,6.67,627,"[0, 0, 0, 0, 0]",82553.21,Alberta,5326.2,34,87206.31,Personal,0,This record falls within expected operational limits.
+179,30618.3,6.47,698,"[0, 0, 0, 1, 1]",28618.3,Ontario,-1210.06,39,92556.21,Personal,0,This record falls within expected operational limits.
+180,70736.46,5.37,782,"[0, 0, 0, 0, 0]",70736.46,Manitoba,2402.35,67,40460.77,Business,0,This record falls within expected operational limits.
+181,115477.8,5.22,738,"[0, 0, 0, 0, 1]",114477.8,Alberta,2295.61,46,34655.74,Business,0,This record falls within expected operational limits.
+182,93277.42,7.36,621,"[1, 1, 0, 0, 1]",90277.42,British Columbia,2894.7,52,107021.48,Mortgage,0,This record falls within expected operational limits.
+183,111688.95,5.14,648,"[0, 0, 0, 0, 0]",111688.95,Quebec,-515.44,64,82999.86,Mortgage,0,This record falls within expected operational limits.
+184,49381.69,6.64,647,"[1, 0, 0, 0, 0]",48381.69,British Columbia,2294.73,59,80578.59,Personal,0,This record falls within expected operational limits.
+185,55043.38,4.95,630,"[0, 1, 1, 1, 0]",52043.38,Quebec,598.76,26,114968.38,Mortgage,0,This record falls within expected operational limits.
+186,-34021.52,5.19,632,"[0, 1, 0, 0, 0]",-35021.52,British Columbia,2192.83,48,61919.08,Business,0,This record falls within expected operational limits.
+187,84420.38,6.04,608,"[0, 0, 0, 0, 0]",84420.38,Manitoba,1433.44,34,34840.03,Personal,0,This record falls within expected operational limits.
+188,36693.53,7.34,666,"[0, 0, 0, 0, 0]",36693.53,Ontario,362.98,66,125218.04,Mortgage,0,This record falls within expected operational limits.
+189,68743.02,6.55,652,"[1, 1, 0, 0, 0]",66743.02,Manitoba,2616.0,61,104186.27,Mortgage,0,This record falls within expected operational limits.
+190,28740.02,5.02,717,"[0, 0, 0, 1, 0]",27740.02,Quebec,1870.52,65,100315.54,Business,0,This record falls within expected operational limits.
+191,27759.37,6.72,607,"[0, 0, 0, 0, 1]",26759.37,British Columbia,4649.13,34,64915.8,Mortgage,0,This record falls within expected operational limits.
+192,92037.18,7.64,642,"[0, 0, 0, 0, 0]",92037.18,Quebec,2430.85,27,94181.67,Business,0,This record falls within expected operational limits.
+193,72063.14,5.86,642,"[0, 0, 0, 0, 0]",72063.14,Ontario,4438.47,58,61677.55,Personal,0,This record falls within expected operational limits.
+194,95127.25,6.79,667,"[1, 0, 0, 0, 0]",94127.25,Alberta,953.16,25,72368.05,Business,0,This record falls within expected operational limits.
+195,82207.6,5.81,582,"[0, 0, 0, 0, 0]",82207.6,British Columbia,1786.86,39,118197.17,Business,0,This record falls within expected operational limits.
+196,107431.63,5.7,705,"[0, 0, 0, 0, 0]",107431.63,British Columbia,2787.26,31,110375.89,Business,0,This record falls within expected operational limits.
+197,51338.83,8.91,686,"[1, 0, 0, 1, 0]",49338.83,British Columbia,1243.25,51,100630.89,Business,0,This record falls within expected operational limits.
+198,112819.43,5.61,573,"[0, 1, 0, 0, 0]",111819.43,Alberta,-146.65,56,84931.21,Mortgage,0,This record falls within expected operational limits.
+199,38343.19,6.54,702,"[0, 0, 0, 0, 0]",38343.19,Quebec,1053.04,21,51374.48,Business,0,This record falls within expected operational limits.
+200,102077.45,5.24,712,"[1, 0, 0, 0, 1]",100077.45,Ontario,4002.63,65,127615.05,Business,0,This record falls within expected operational limits.
+201,77029.15,6.77,542,"[0, 0, 0, 0, 0]",77029.15,Quebec,1093.72,38,56476.26,Mortgage,0,This record falls within expected operational limits.
+202,142199.28,4.84,546,"[0, 1, 1, 0, 0]",140199.28,Alberta,3325.2,37,92643.93,Business,0,This record falls within expected operational limits.
+203,54713.08,7.38,666,"[0, 0, 0, 1, 0]",53713.08,Alberta,2369.1,69,56695.14,Business,0,This record falls within expected operational limits.
+204,86256.64,2.03,603,"[1, 0, 0, 0, 0]",85256.64,Ontario,2445.03,61,128661.56,Personal,0,This record falls within expected operational limits.
+205,105702.08,6.17,729,"[0, 0, 0, 0, 1]",104702.08,Quebec,1120.71,42,86271.41,Business,0,This record falls within expected operational limits.
+206,42886.81,6.57,571,"[0, 0, 0, 0, 0]",42886.81,Ontario,977.25,21,64258.98,Personal,0,This record falls within expected operational limits.
+207,113176.48,4.51,686,"[0, 0, 0, 0, 0]",113176.48,Alberta,2875.45,38,83562.53,Personal,0,This record falls within expected operational limits.
+208,101744.61,5.74,693,"[0, 0, 0, 1, 0]",100744.61,Alberta,2697.71,41,93856.79,Mortgage,0,This record falls within expected operational limits.
+209,68914.36,4.53,654,"[0, 0, 1, 0, 0]",67914.36,Quebec,1513.12,38,153588.19,Mortgage,0,This record falls within expected operational limits.
+210,120665.89,3.71,613,"[0, 1, 0, 0, 0]",119665.89,Manitoba,-2175.63,51,98758.36,Personal,0,This record falls within expected operational limits.
+211,168823.18,3.61,765,"[0, 0, 0, 1, 1]",166823.18,British Columbia,1548.41,65,70372.22,Mortgage,0,This record falls within expected operational limits.
+212,105741.78,8.2,735,"[0, 1, 0, 0, 0]",104741.78,Alberta,1853.72,40,93323.43,Personal,0,This record falls within expected operational limits.
+213,66288.11,3.55,710,"[0, 0, 0, 0, 0]",66288.11,Manitoba,518.83,60,63476.33,Personal,0,This record falls within expected operational limits.
+214,47393.84,6.34,667,"[0, 0, 0, 0, 0]",47393.84,Alberta,-181.87,52,72395.5,Personal,0,This record falls within expected operational limits.
+215,76828.22,6.92,645,"[0, 0, 0, 0, 1]",75828.22,Manitoba,-153.71,28,76836.93,Mortgage,0,This record falls within expected operational limits.
+216,73763.01,6.54,672,"[0, 1, 0, 0, 0]",72763.01,Alberta,-1216.85,28,58383.19,Business,0,This record falls within expected operational limits.
+217,133311.95,2.87,688,"[0, 0, 0, 0, 0]",133311.95,Quebec,4817.0,53,27390.38,Personal,0,This record falls within expected operational limits.
+218,63966.87,4.46,553,"[0, 0, 0, 0, 0]",63966.87,Alberta,4909.64,56,68116.89,Personal,0,This record falls within expected operational limits.
+219,145640.11,5.1,650,"[0, 0, 0, 0, 1]",144640.11,Manitoba,1776.76,65,64495.86,Mortgage,0,This record falls within expected operational limits.
+220,146619.71,4.85,739,"[0, 0, 0, 0, 0]",146619.71,Ontario,4160.57,46,134534.51,Personal,0,This record falls within expected operational limits.
+221,98847.68,5.26,648,"[0, 1, 0, 0, 0]",97847.68,Ontario,769.68,33,41525.5,Personal,0,This record falls within expected operational limits.
+222,90107.72,6.79,635,"[1, 0, 0, 1, 1]",87107.72,Manitoba,896.07,57,121009.76,Personal,0,This record falls within expected operational limits.
+223,108430.4,3.32,741,"[0, 0, 1, 0, 0]",107430.4,Manitoba,3294.74,33,93227.28,Mortgage,0,This record falls within expected operational limits.
+224,80231.31,4.22,620,"[0, 0, 0, 0, 0]",80231.31,Alberta,2001.36,26,55272.18,Personal,0,This record falls within expected operational limits.
+225,51217.29,4.12,655,"[0, 1, 0, 1, 0]",49217.29,Quebec,4747.62,25,79828.47,Business,0,This record falls within expected operational limits.
+226,114722.23,5.45,719,"[0, 0, 0, 0, 0]",114722.23,Alberta,-1091.22,34,23617.62,Mortgage,0,This record falls within expected operational limits.
+227,58431.26,4.8,683,"[1, 0, 0, 0, 0]",57431.26,Quebec,3167.06,68,80204.53,Business,0,This record falls within expected operational limits.
+228,87286.37,8.15,750,"[0, 0, 0, 0, 0]",87286.37,British Columbia,4019.18,48,21956.29,Business,0,This record falls within expected operational limits.
+229,122527.65,6.11,749,"[0, 0, 0, 0, 1]",121527.65,Quebec,1834.6,30,79867.39,Business,0,This record falls within expected operational limits.
+230,88938.32,3.41,669,"[1, 0, 0, 0, 0]",87938.32,Ontario,1474.19,35,32176.3,Business,0,This record falls within expected operational limits.
+231,115000.12,4.02,630,"[0, 0, 0, 0, 0]",115000.12,Ontario,-450.13,69,65322.84,Personal,0,This record falls within expected operational limits.
+232,53467.77,5.64,588,"[0, 1, 0, 0, 0]",52467.77,Alberta,1858.75,55,60175.46,Business,0,This record falls within expected operational limits.
+233,113916.34,4.6,500,"[0, 0, 0, 0, 1]",112916.34,Quebec,591.81,47,36822.95,Business,0,This record falls within expected operational limits.
+234,21590.08,3.5,741,"[1, 1, 0, 0, 0]",19590.08,Alberta,-694.18,22,52651.07,Mortgage,0,This record falls within expected operational limits.
+235,29218.48,6.83,779,"[0, 0, 0, 0, 0]",29218.48,British Columbia,2631.94,24,112161.42,Business,0,This record falls within expected operational limits.
+236,8656.78,6.43,568,"[1, 0, 0, 0, 1]",6656.78,Quebec,4757.31,21,56039.69,Mortgage,0,This record falls within expected operational limits.
+237,-14462.92,5.03,672,"[0, 1, 0, 0, 0]",-15462.92,Quebec,1966.74,32,76758.87,Business,0,This record falls within expected operational limits.
+238,63484.94,5.27,555,"[0, 0, 0, 1, 1]",61484.94,Alberta,3561.63,54,56342.13,Personal,0,This record falls within expected operational limits.
+239,141239.98,4.35,707,"[0, 0, 0, 0, 1]",140239.98,Ontario,3174.64,25,115641.76,Business,0,This record falls within expected operational limits.
+240,83661.8,5.31,583,"[0, 0, 0, 0, 0]",83661.8,Ontario,518.75,36,87205.72,Business,0,This record falls within expected operational limits.
+241,100222.23,4.53,610,"[0, 0, 0, 0, 0]",100222.23,Quebec,4809.78,51,129984.9,Personal,0,This record falls within expected operational limits.
+242,61919.97,6.63,667,"[0, 0, 0, 0, 0]",61919.97,British Columbia,1056.13,64,68131.6,Personal,0,This record falls within expected operational limits.
+243,93944.18,6.97,678,"[0, 1, 0, 0, 0]",92944.18,Alberta,2270.93,41,83775.96,Mortgage,0,This record falls within expected operational limits.
+244,124265.82,3.62,608,"[0, 0, 0, 1, 1]",122265.82,Ontario,2841.05,23,78977.48,Mortgage,0,This record falls within expected operational limits.
+245,112737.86,3.76,800,"[0, 1, 0, 0, 0]",111737.86,Ontario,817.12,36,81397.57,Personal,0,This record falls within expected operational limits.
+246,41928.89,5.68,708,"[0, 0, 0, 0, 1]",40928.89,Quebec,1682.43,34,78216.99,Business,0,This record falls within expected operational limits.
+247,98063.12,8.13,650,"[1, 0, 0, 0, 1]",96063.12,Quebec,-1453.7,60,91619.3,Mortgage,0,This record falls within expected operational limits.
+248,72273.77,2.72,582,"[0, 0, 0, 1, 0]",71273.77,Manitoba,3369.95,29,80272.97,Personal,0,This record falls within expected operational limits.
+249,22482.08,8.38,658,"[0, 0, 0, 1, 0]",21482.08,Ontario,-201.07,67,85883.21,Mortgage,0,This record falls within expected operational limits.
+250,145196.01,6.85,495,"[0, 0, 0, 0, 0]",145196.01,British Columbia,1829.97,62,88490.87,Personal,0,This record falls within expected operational limits.
+251,61427.42,7.49,658,"[0, 0, 0, 0, 0]",61427.42,Quebec,2088.84,68,108630.55,Mortgage,0,This record falls within expected operational limits.
+252,81132.27,9.32,834,"[0, 0, 0, 1, 0]",80132.27,Quebec,2050.0,37,120685.62,Personal,0,This record falls within expected operational limits.
+253,73567.02,4.79,672,"[0, 0, 1, 0, 0]",72567.02,Manitoba,1502.39,66,103888.11,Personal,0,This record falls within expected operational limits.
+254,53592.34,5.69,665,"[0, 0, 0, 0, 0]",53592.34,Ontario,4557.89,60,63148.85,Personal,0,This record falls within expected operational limits.
+255,34581.58,3.01,600,"[1, 0, 0, 0, 0]",33581.58,Manitoba,1709.68,32,70993.8,Personal,0,This record falls within expected operational limits.
+256,80834.77,4.81,627,"[0, 0, 0, 0, 0]",80834.77,Quebec,3946.03,55,34774.67,Business,0,This record falls within expected operational limits.
+257,39929.85,5.63,772,"[0, 0, 0, 0, 0]",39929.85,Quebec,6443.6,23,85571.2,Mortgage,0,This record falls within expected operational limits.
+258,83838.64,4.99,665,"[0, 0, 0, 0, 0]",83838.64,Ontario,-1037.45,70,92376.88,Mortgage,0,This record falls within expected operational limits.
+259,72030.13,8.2,730,"[0, 0, 0, 0, 0]",72030.13,Manitoba,1953.92,42,107470.0,Mortgage,0,This record falls within expected operational limits.
+260,40577.3,1.04,692,"[0, 1, 0, 0, 0]",39577.3,British Columbia,1344.85,30,86916.5,Mortgage,0,This record falls within expected operational limits.
+261,67789.94,7.96,583,"[1, 0, 0, 0, 0]",66789.94,Ontario,2109.68,66,61523.01,Business,0,This record falls within expected operational limits.
+262,32503.54,2.88,558,"[0, 1, 0, 1, 1]",29503.54,Quebec,4193.05,61,94955.51,Mortgage,0,This record falls within expected operational limits.
+263,95896.19,4.76,626,"[0, 0, 1, 0, 0]",94896.19,British Columbia,1805.36,50,67659.17,Mortgage,0,This record falls within expected operational limits.
+264,108098.04,6.55,585,"[0, 1, 0, 0, 0]",107098.04,Quebec,1989.87,35,106764.79,Personal,0,This record falls within expected operational limits.
+265,76673.28,5.61,736,"[0, 0, 0, 0, 0]",76673.28,Alberta,2112.32,67,74855.35,Mortgage,0,This record falls within expected operational limits.
+266,7168.67,4.18,748,"[1, 1, 0, 0, 0]",5168.67,Manitoba,4717.33,24,101218.06,Mortgage,0,This record falls within expected operational limits.
+267,14474.1,3.51,630,"[0, 0, 0, 0, 0]",14474.1,Manitoba,2408.85,55,52841.02,Mortgage,0,This record falls within expected operational limits.
+268,84453.75,5.52,665,"[0, 0, 0, 0, 0]",84453.75,Manitoba,1969.51,57,69399.22,Business,0,This record falls within expected operational limits.
+269,114453.32,6.18,576,"[0, 0, 0, 0, 0]",114453.32,Manitoba,400.41,44,58032.67,Personal,0,This record falls within expected operational limits.
+270,73457.43,3.99,454,"[0, 0, 0, 1, 0]",72457.43,British Columbia,3405.85,55,88473.61,Mortgage,0,This record falls within expected operational limits.
+271,156732.99,5.39,597,"[0, 0, 0, 0, 1]",155732.99,Ontario,1189.63,53,86435.59,Personal,0,This record falls within expected operational limits.
+272,53999.06,5.51,776,"[0, 0, 1, 0, 0]",52999.06,Alberta,-289.42,65,89668.1,Personal,0,This record falls within expected operational limits.
+273,71749.9,3.83,688,"[0, 0, 0, 0, 0]",71749.9,Ontario,631.6,31,106684.55,Mortgage,0,This record falls within expected operational limits.
+274,93919.98,4.61,726,"[1, 1, 1, 1, 0]",89919.98,Quebec,1868.03,26,49580.97,Personal,0,This record falls within expected operational limits.
+275,66681.61,2.6,695,"[1, 0, 0, 0, 0]",65681.61,British Columbia,2700.12,69,89028.63,Mortgage,0,This record falls within expected operational limits.
+276,145852.07,6.31,686,"[0, 0, 0, 0, 0]",145852.07,Ontario,4130.94,68,137050.84,Mortgage,0,This record falls within expected operational limits.
+277,142300.06,5.61,784,"[0, 1, 0, 0, 1]",140300.06,Ontario,1613.06,58,40625.41,Mortgage,0,This record falls within expected operational limits.
+278,106008.04,7.99,699,"[0, 0, 0, 0, 0]",106008.04,Quebec,4053.47,27,94971.73,Mortgage,0,This record falls within expected operational limits.
+279,27167.3,1.87,717,"[0, 0, 0, 1, 1]",25167.3,British Columbia,4722.21,55,119551.75,Mortgage,0,This record falls within expected operational limits.
+280,8665.46,5.27,600,"[1, 1, 1, 1, 0]",4665.46,Manitoba,2327.83,60,96509.17,Personal,0,This record falls within expected operational limits.
+281,107858.13,7.34,633,"[1, 0, 0, 0, 0]",106858.13,Manitoba,2328.35,68,38394.11,Personal,0,This record falls within expected operational limits.
+282,55403.79,3.8,672,"[1, 0, 0, 0, 1]",53403.79,Quebec,2750.01,54,104306.21,Mortgage,0,This record falls within expected operational limits.
+283,93782.45,5.43,611,"[1, 0, 0, 0, 0]",92782.45,Alberta,1630.63,36,35752.91,Mortgage,0,This record falls within expected operational limits.
+284,113951.47,5.71,760,"[0, 0, 0, 0, 0]",113951.47,Quebec,152.17,53,70722.29,Business,0,This record falls within expected operational limits.
+285,88400.58,4.21,705,"[0, 0, 1, 0, 0]",87400.58,Alberta,3489.76,41,100075.62,Personal,0,This record falls within expected operational limits.
+286,84422.57,4.78,643,"[0, 0, 0, 0, 0]",84422.57,Quebec,1118.18,47,81965.12,Business,0,This record falls within expected operational limits.
+287,119770.73,9.21,678,"[0, 1, 0, 0, 0]",118770.73,British Columbia,-2162.93,70,59094.1,Business,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+288,184939.43,6.14,710,"[0, 0, 0, 1, 0]",183939.43,Alberta,1955.44,65,119460.09,Business,0,This record falls within expected operational limits.
+289,85098.32,3.88,668,"[1, 0, 0, 1, 0]",83098.32,Manitoba,3275.2,52,59642.35,Business,0,This record falls within expected operational limits.
+290,71398.25,4.74,809,"[1, 0, 1, 0, 0]",69398.25,Ontario,861.79,30,91994.16,Mortgage,0,This record falls within expected operational limits.
+291,24441.42,5.63,560,"[0, 1, 1, 0, 0]",22441.42,British Columbia,2062.03,21,114836.81,Business,0,This record falls within expected operational limits.
+292,55727.16,6.08,674,"[0, 0, 0, 0, 0]",55727.16,Manitoba,2529.52,33,50220.82,Business,0,This record falls within expected operational limits.
+293,38207.45,3.86,676,"[0, 0, 0, 0, 0]",38207.45,Manitoba,484.91,37,37740.29,Mortgage,0,This record falls within expected operational limits.
+294,129747.68,5.83,577,"[0, 0, 1, 0, 1]",127747.68,Ontario,1785.59,61,102567.71,Business,0,This record falls within expected operational limits.
+295,21808.04,3.4,574,"[0, 0, 0, 0, 0]",21808.04,British Columbia,1519.01,24,114136.82,Business,0,This record falls within expected operational limits.
+296,45789.47,4.63,579,"[1, 0, 1, 0, 0]",43789.47,Ontario,3269.34,24,138432.46,Personal,0,This record falls within expected operational limits.
+297,108283.11,3.78,677,"[0, 0, 0, 0, 0]",108283.11,Ontario,-414.83,29,115474.35,Business,0,This record falls within expected operational limits.
+298,108999.69,3.16,485,"[0, 0, 0, 0, 0]",108999.69,Quebec,2504.45,61,96139.89,Personal,0,This record falls within expected operational limits.
+299,42320.68,5.53,705,"[0, 0, 0, 0, 0]",42320.68,Alberta,1637.96,70,98797.49,Personal,0,This record falls within expected operational limits.
+300,46893.4,6.05,655,"[0, 0, 0, 0, 0]",46893.4,Manitoba,3752.51,64,131312.26,Mortgage,0,This record falls within expected operational limits.
+301,36271.19,5.51,659,"[0, 0, 0, 0, 0]",36271.19,Alberta,2674.37,59,117865.93,Business,0,This record falls within expected operational limits.
+302,85473.89,7.38,545,"[0, 0, 0, 0, 0]",85473.89,Alberta,1883.99,44,44323.28,Personal,0,This record falls within expected operational limits.
+303,37657.17,5.69,691,"[1, 0, 0, 0, 0]",36657.17,British Columbia,1835.85,49,102306.33,Personal,0,This record falls within expected operational limits.
+304,105009.27,7.3,549,"[0, 1, 0, 0, 0]",104009.27,Manitoba,4923.0,64,69159.59,Mortgage,0,This record falls within expected operational limits.
+305,82166.71,7.26,631,"[0, 0, 0, 0, 0]",82166.71,Quebec,2790.58,47,61817.55,Mortgage,0,This record falls within expected operational limits.
+306,109575.61,6.78,645,"[0, 0, 0, 0, 1]",108575.61,Ontario,492.83,41,53134.83,Mortgage,0,This record falls within expected operational limits.
+307,109387.04,4.78,801,"[0, 0, 0, 0, 1]",108387.04,Quebec,2093.39,60,94571.48,Personal,0,This record falls within expected operational limits.
+308,80573.65,6.62,634,"[0, 0, 0, 1, 0]",79573.65,Quebec,3596.8,32,63177.38,Personal,0,This record falls within expected operational limits.
+309,146239.98,6.51,710,"[1, 0, 0, 0, 0]",145239.98,Ontario,1655.87,63,57710.21,Personal,0,This record falls within expected operational limits.
+310,6033.32,7.45,646,"[0, 0, 0, 0, 1]",5033.32,British Columbia,-1127.71,69,106541.68,Personal,0,This record falls within expected operational limits.
+311,52880.97,6.32,777,"[0, 0, 0, 1, 0]",51880.97,Quebec,-328.51,64,92434.04,Mortgage,0,This record falls within expected operational limits.
+312,188124.54,6.49,686,"[0, 0, 0, 0, 0]",188124.54,Alberta,3550.28,33,86207.64,Personal,0,This record falls within expected operational limits.
+313,48519.0,4.39,653,"[0, 0, 1, 0, 0]",47519.0,Ontario,1684.6,33,115200.96,Personal,0,This record falls within expected operational limits.
+314,131720.49,5.74,631,"[0, 1, 0, 0, 0]",130720.49,Alberta,2032.16,43,101736.2,Business,0,This record falls within expected operational limits.
+315,94354.61,4.03,589,"[0, 0, 0, 1, 1]",92354.61,Alberta,3437.09,45,56256.61,Personal,0,This record falls within expected operational limits.
+316,67143.68,5.95,576,"[1, 0, 0, 0, 0]",66143.68,British Columbia,3105.27,59,-3181.53,Business,0,This record falls within expected operational limits.
+317,67909.94,8.56,788,"[1, 0, 1, 0, 0]",65909.94,Alberta,-302.47,40,56805.66,Business,0,This record falls within expected operational limits.
+318,38771.03,5.87,693,"[0, 0, 0, 0, 0]",38771.03,Ontario,2002.98,60,84226.65,Personal,0,This record falls within expected operational limits.
+319,89395.88,4.88,649,"[1, 0, 1, 1, 0]",86395.88,Ontario,3093.53,68,72325.56,Personal,0,This record falls within expected operational limits.
+320,78538.21,4.91,535,"[0, 0, 0, 0, 1]",77538.21,Alberta,2015.07,46,143490.06,Mortgage,0,This record falls within expected operational limits.
+321,68568.89,6.5,641,"[0, 0, 0, 0, 0]",68568.89,Alberta,2997.77,37,45741.46,Mortgage,0,This record falls within expected operational limits.
+322,53022.39,5.82,746,"[1, 0, 0, 0, 0]",52022.39,Quebec,1637.99,66,76711.82,Personal,0,This record falls within expected operational limits.
+323,9000.7,5.14,683,"[0, 0, 0, 0, 0]",9000.7,Ontario,2606.79,70,40025.48,Business,0,This record falls within expected operational limits.
+324,158232.66,4.91,627,"[0, 1, 0, 0, 0]",157232.66,Alberta,1108.38,43,50669.51,Mortgage,0,This record falls within expected operational limits.
+325,99409.78,4.15,691,"[0, 0, 0, 0, 0]",99409.78,Alberta,3906.76,63,51846.34,Business,0,This record falls within expected operational limits.
+326,10631.24,4.94,587,"[0, 0, 0, 0, 0]",10631.24,Manitoba,3944.02,67,49780.98,Mortgage,0,This record falls within expected operational limits.
+327,34761.07,7.58,736,"[1, 0, 0, 0, 0]",33761.07,Ontario,3428.2,40,66427.0,Business,0,This record falls within expected operational limits.
+328,56224.66,5.8,601,"[1, 0, 0, 0, 0]",55224.66,Manitoba,1631.76,39,96325.12,Business,0,This record falls within expected operational limits.
+329,57881.3,4.01,581,"[1, 0, 0, 0, 0]",56881.3,Quebec,2401.63,52,106356.31,Mortgage,0,This record falls within expected operational limits.
+330,66413.6,4.17,619,"[0, 0, 1, 0, 0]",65413.6,Alberta,26.73,69,74636.27,Personal,0,This record falls within expected operational limits.
+331,50381.85,4.44,714,"[0, 0, 0, 0, 0]",50381.85,Manitoba,507.69,64,73987.48,Mortgage,0,This record falls within expected operational limits.
+332,39378.57,2.79,759,"[0, 0, 0, 0, 1]",38378.57,Quebec,1234.52,35,126848.55,Personal,0,This record falls within expected operational limits.
+333,9255.68,4.83,586,"[0, 0, 0, 0, 0]",9255.68,Ontario,2986.57,30,11192.05,Personal,0,This record falls within expected operational limits.
+334,102787.57,4.26,680,"[0, 0, 0, 0, 0]",102787.57,Alberta,4467.55,27,86476.62,Business,0,This record falls within expected operational limits.
+335,30769.9,5.8,560,"[0, 0, 0, 1, 0]",29769.9,Ontario,1258.36,36,67018.76,Mortgage,0,This record falls within expected operational limits.
+336,48279.81,5.96,661,"[0, 0, 1, 0, 0]",47279.81,Quebec,1798.76,29,72463.47,Personal,0,This record falls within expected operational limits.
+337,-16193.28,4.21,601,"[0, 0, 0, 0, 0]",-16193.28,British Columbia,2020.39,22,67997.42,Business,0,This record falls within expected operational limits.
+338,17239.39,4.57,747,"[1, 1, 1, 0, 0]",14239.39,Quebec,-674.87,27,43126.0,Business,0,This record falls within expected operational limits.
+339,122743.78,4.25,580,"[1, 0, 0, 1, 0]",120743.78,Manitoba,1617.13,49,75249.86,Mortgage,0,This record falls within expected operational limits.
+340,64528.19,6.82,681,"[0, 1, 0, 0, 0]",63528.19,Ontario,2127.79,40,93057.36,Business,0,This record falls within expected operational limits.
+341,90414.81,4.75,604,"[0, 1, 0, 0, 1]",88414.81,Manitoba,3206.57,27,98499.15,Mortgage,0,This record falls within expected operational limits.
+342,111880.47,2.95,575,"[0, 0, 0, 1, 0]",110880.47,Ontario,928.11,39,74824.73,Mortgage,0,This record falls within expected operational limits.
+343,64833.63,7.06,535,"[0, 0, 0, 0, 0]",64833.63,Ontario,2975.76,39,37516.66,Mortgage,0,This record falls within expected operational limits.
+344,27335.45,4.25,643,"[0, 0, 0, 0, 0]",27335.45,Quebec,1079.71,55,136787.71,Business,0,This record falls within expected operational limits.
+345,79732.31,6.58,623,"[0, 0, 0, 0, 0]",79732.31,Manitoba,2284.63,44,30888.52,Mortgage,0,This record falls within expected operational limits.
+346,28369.87,5.74,593,"[0, 0, 0, 0, 0]",28369.87,Quebec,5529.68,33,49114.31,Business,0,This record falls within expected operational limits.
+347,123582.4,5.66,731,"[0, 0, 0, 0, 0]",123582.4,Quebec,1006.77,60,63657.6,Business,0,This record falls within expected operational limits.
+348,125065.6,4.07,647,"[0, 0, 0, 1, 0]",124065.6,Manitoba,2347.69,27,4872.48,Business,0,This record falls within expected operational limits.
+349,125939.27,5.22,755,"[0, 1, 1, 0, 0]",123939.27,Quebec,2974.76,46,76655.41,Mortgage,0,This record falls within expected operational limits.
+350,57179.93,6.8,802,"[0, 0, 0, 0, 0]",57179.93,British Columbia,1332.64,61,98407.28,Mortgage,0,This record falls within expected operational limits.
+351,74510.55,3.51,613,"[0, 0, 0, 0, 0]",74510.55,Ontario,2332.71,62,73339.84,Mortgage,0,This record falls within expected operational limits.
+352,103723.68,3.4,653,"[0, 0, 0, 0, 0]",103723.68,Manitoba,1318.2,64,111886.04,Business,0,This record falls within expected operational limits.
+353,50862.75,3.78,663,"[0, 0, 1, 0, 0]",49862.75,Ontario,1250.83,57,142739.07,Personal,0,This record falls within expected operational limits.
+354,54928.79,4.04,722,"[0, 0, 1, 0, 1]",52928.79,Quebec,2061.21,64,105961.03,Mortgage,0,This record falls within expected operational limits.
+355,19851.82,8.07,567,"[0, 0, 0, 0, 0]",19851.82,Alberta,2636.51,28,58771.89,Mortgage,0,This record falls within expected operational limits.
+356,79551.05,9.06,583,"[0, 0, 0, 0, 0]",79551.05,British Columbia,1213.11,63,45362.0,Personal,0,This record falls within expected operational limits.
+357,74050.19,4.25,719,"[1, 1, 0, 0, 1]",71050.19,Alberta,4611.14,57,51646.5,Personal,0,This record falls within expected operational limits.
+358,46527.76,4.63,751,"[1, 0, 1, 0, 0]",44527.76,Alberta,1981.75,30,99940.85,Personal,0,This record falls within expected operational limits.
+359,68665.41,6.42,548,"[0, 0, 0, 0, 0]",68665.41,Alberta,1679.04,64,67048.69,Personal,0,This record falls within expected operational limits.
+360,70263.26,5.85,574,"[1, 1, 0, 0, 0]",68263.26,British Columbia,5030.55,62,112287.21,Business,0,This record falls within expected operational limits.
+361,63794.1,5.06,748,"[0, 1, 1, 0, 1]",60794.1,Ontario,2622.18,47,110616.79,Personal,0,This record falls within expected operational limits.
+362,50826.18,5.68,612,"[0, 0, 1, 0, 1]",48826.18,British Columbia,192.39,26,51086.95,Personal,0,This record falls within expected operational limits.
+363,114459.58,5.06,556,"[0, 0, 0, 1, 0]",113459.58,Manitoba,4609.13,67,77883.1,Business,0,This record falls within expected operational limits.
+364,120954.48,6.03,816,"[1, 0, 0, 0, 0]",119954.48,Manitoba,-1100.96,36,94568.0,Business,0,This record falls within expected operational limits.
+365,57560.7,6.06,667,"[0, 0, 0, 1, 0]",56560.7,Manitoba,3158.87,67,108921.63,Business,0,This record falls within expected operational limits.
+366,156926.97,4.84,740,"[0, 0, 1, 0, 0]",155926.97,British Columbia,4871.42,48,84947.33,Mortgage,0,This record falls within expected operational limits.
+367,98157.75,6.25,667,"[0, 1, 0, 0, 0]",97157.75,Alberta,1361.61,44,22403.37,Personal,0,This record falls within expected operational limits.
+368,-10472.84,6.72,656,"[1, 0, 0, 0, 0]",-11472.84,Manitoba,3339.76,45,69307.7,Business,0,This record falls within expected operational limits.
+369,70309.52,1.99,732,"[0, 0, 0, 0, 0]",70309.52,Manitoba,183.39,58,53669.75,Personal,0,This record falls within expected operational limits.
+370,30609.72,5.65,650,"[0, 0, 0, 0, 0]",30609.72,Manitoba,1874.24,69,16229.46,Business,0,This record falls within expected operational limits.
+371,146705.23,3.87,683,"[0, 0, 0, 0, 0]",146705.23,Quebec,-303.21,26,77986.73,Personal,0,This record falls within expected operational limits.
+372,13328.86,5.2,633,"[1, 0, 0, 0, 1]",11328.86,Alberta,2841.25,34,98376.38,Mortgage,0,This record falls within expected operational limits.
+373,-20506.14,6.56,794,"[1, 0, 0, 0, 0]",-21506.14,Alberta,452.55,24,100232.64,Personal,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+374,84162.64,8.76,698,"[0, 0, 0, 0, 1]",83162.64,Ontario,3977.87,27,115780.51,Business,0,This record falls within expected operational limits.
+375,75333.95,8.42,644,"[0, 0, 1, 0, 0]",74333.95,Alberta,813.4,42,59012.3,Mortgage,0,This record falls within expected operational limits.
+376,20072.21,4.72,597,"[0, 0, 0, 0, 1]",19072.21,Quebec,3181.69,29,118169.64,Mortgage,0,This record falls within expected operational limits.
+377,40199.92,6.63,530,"[0, 0, 0, 0, 0]",40199.92,Quebec,1061.6,54,64013.37,Personal,0,This record falls within expected operational limits.
+378,110342.17,7.68,628,"[0, 0, 0, 0, 0]",110342.17,British Columbia,418.78,63,117736.67,Mortgage,0,This record falls within expected operational limits.
+379,115025.94,4.13,604,"[1, 0, 0, 0, 0]",114025.94,Alberta,4385.52,22,48285.75,Business,0,This record falls within expected operational limits.
+380,150753.79,3.31,558,"[0, 0, 0, 1, 0]",149753.79,Quebec,1510.56,39,105573.71,Business,0,This record falls within expected operational limits.
+381,159925.28,3.89,597,"[0, 0, 1, 0, 0]",158925.28,Manitoba,1763.74,36,44307.65,Personal,0,This record falls within expected operational limits.
+382,90103.42,5.45,667,"[0, 0, 0, 0, 0]",90103.42,Quebec,3433.44,48,156675.18,Personal,0,This record falls within expected operational limits.
+383,54357.52,5.85,829,"[0, 0, 0, 0, 0]",54357.52,Alberta,2744.37,46,134561.82,Personal,0,This record falls within expected operational limits.
+384,20694.28,5.42,702,"[0, 0, 0, 0, 0]",20694.28,British Columbia,-206.84,37,119360.26,Mortgage,0,This record falls within expected operational limits.
+385,28073.6,7.05,650,"[0, 0, 1, 1, 0]",26073.6,Manitoba,2129.56,60,102804.62,Mortgage,0,This record falls within expected operational limits.
+386,39914.26,1.53,627,"[0, 0, 0, 1, 0]",38914.26,British Columbia,1947.27,40,94256.96,Mortgage,0,This record falls within expected operational limits.
+387,108902.9,6.52,550,"[0, 1, 0, 0, 1]",106902.9,Manitoba,3412.2,61,70592.82,Business,0,This record falls within expected operational limits.
+388,80290.46,4.76,723,"[0, 0, 0, 0, 0]",80290.46,Quebec,801.61,61,112503.38,Mortgage,0,This record falls within expected operational limits.
+389,27890.26,5.2,632,"[0, 0, 0, 0, 0]",27890.26,Quebec,792.54,24,65735.43,Mortgage,0,This record falls within expected operational limits.
+390,63818.5,3.76,733,"[0, 1, 0, 0, 1]",61818.5,Ontario,2813.09,70,67451.46,Personal,0,This record falls within expected operational limits.
+391,75588.28,6.9,675,"[1, 0, 0, 0, 0]",74588.28,Ontario,2610.8,62,94448.01,Mortgage,0,This record falls within expected operational limits.
+392,35534.21,6.28,606,"[1, 0, 0, 0, 0]",34534.21,British Columbia,1325.79,64,86861.75,Business,0,This record falls within expected operational limits.
+393,50515.36,4.62,668,"[0, 0, 0, 0, 1]",49515.36,Quebec,1863.15,43,117397.62,Personal,0,This record falls within expected operational limits.
+394,96338.09,5.26,515,"[0, 0, 0, 0, 0]",96338.09,British Columbia,-469.51,49,120307.43,Mortgage,0,This record falls within expected operational limits.
+395,160112.05,4.58,616,"[0, 1, 0, 0, 0]",159112.05,Quebec,1753.71,54,56855.1,Personal,0,This record falls within expected operational limits.
+396,137676.71,5.33,492,"[1, 0, 0, 0, 0]",136676.71,British Columbia,2235.09,58,86734.65,Mortgage,0,This record falls within expected operational limits.
+397,116250.9,7.49,656,"[0, 0, 0, 0, 0]",116250.9,Manitoba,4326.4,67,91355.81,Mortgage,0,This record falls within expected operational limits.
+398,115730.27,6.71,641,"[0, 0, 0, 0, 0]",115730.27,Ontario,2817.49,56,103858.62,Business,0,This record falls within expected operational limits.
+399,31236.49,6.41,689,"[0, 0, 0, 0, 0]",31236.49,Alberta,2447.0,40,125894.47,Mortgage,0,This record falls within expected operational limits.
+400,66081.59,7.45,603,"[0, 0, 0, 0, 0]",66081.59,Alberta,1374.39,54,112701.33,Mortgage,0,This record falls within expected operational limits.
+401,142055.89,4.0,671,"[0, 0, 0, 0, 0]",142055.89,British Columbia,2293.25,21,143308.21,Business,0,This record falls within expected operational limits.
+402,110734.19,5.54,609,"[0, 0, 0, 0, 0]",110734.19,British Columbia,-190.89,60,110014.82,Personal,0,This record falls within expected operational limits.
+403,106432.38,6.68,671,"[0, 0, 0, 1, 0]",105432.38,British Columbia,1687.55,23,74171.39,Personal,0,This record falls within expected operational limits.
+404,95763.98,5.1,649,"[0, 0, 0, 0, 0]",95763.98,Quebec,5068.02,44,122170.14,Mortgage,0,This record falls within expected operational limits.
+405,15664.52,5.68,655,"[0, 0, 1, 0, 0]",14664.52,Ontario,2335.83,36,85722.68,Personal,0,This record falls within expected operational limits.
+406,121752.04,7.03,553,"[0, 0, 1, 0, 1]",119752.04,British Columbia,-182.91,34,120476.98,Mortgage,0,This record falls within expected operational limits.
+407,112777.55,3.86,591,"[1, 0, 0, 0, 0]",111777.55,Quebec,1206.71,51,38362.3,Business,0,This record falls within expected operational limits.
+408,89564.61,6.35,613,"[0, 0, 0, 0, 0]",89564.61,Manitoba,3992.83,59,75401.16,Business,0,This record falls within expected operational limits.
+409,80507.12,6.67,693,"[0, 0, 0, 0, 1]",79507.12,Quebec,2770.47,23,70910.09,Mortgage,0,This record falls within expected operational limits.
+410,131063.23,7.22,624,"[1, 0, 1, 0, 0]",129063.23,Ontario,4452.55,25,72237.51,Personal,0,This record falls within expected operational limits.
+411,60365.35,7.67,612,"[0, 0, 1, 0, 0]",59365.35,Quebec,3887.96,39,82333.72,Personal,0,This record falls within expected operational limits.
+412,49992.48,5.73,646,"[0, 0, 0, 0, 0]",49992.48,British Columbia,889.13,51,80333.9,Business,0,This record falls within expected operational limits.
+413,169118.32,4.62,662,"[0, 0, 0, 0, 0]",169118.32,Quebec,3845.42,34,192368.38,Personal,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+414,157149.24,7.75,690,"[0, 0, 0, 0, 0]",157149.24,Quebec,2545.23,66,80264.18,Mortgage,0,This record falls within expected operational limits.
+415,100942.38,5.92,641,"[0, 0, 0, 0, 0]",100942.38,Ontario,1340.07,41,128628.15,Mortgage,0,This record falls within expected operational limits.
+416,69313.07,4.77,776,"[0, 0, 0, 0, 0]",69313.07,British Columbia,3045.75,24,94093.63,Business,0,This record falls within expected operational limits.
+417,121989.72,5.15,640,"[1, 0, 0, 0, 1]",119989.72,Quebec,2772.47,24,48485.16,Personal,0,This record falls within expected operational limits.
+418,93775.56,2.27,742,"[1, 0, 0, 0, 0]",92775.56,Ontario,596.21,49,28293.86,Personal,0,This record falls within expected operational limits.
+419,96341.45,5.06,618,"[0, 0, 0, 0, 0]",96341.45,British Columbia,3677.72,56,82388.12,Personal,0,This record falls within expected operational limits.
+420,49806.46,4.91,686,"[0, 0, 0, 0, 0]",49806.46,Alberta,2814.61,59,143403.31,Business,0,This record falls within expected operational limits.
+421,103614.86,5.48,749,"[0, 0, 0, 1, 0]",102614.86,Ontario,3424.68,52,59624.17,Mortgage,0,This record falls within expected operational limits.
+422,37494.06,6.85,773,"[0, 0, 0, 0, 0]",37494.06,Manitoba,1153.13,69,80793.24,Business,0,This record falls within expected operational limits.
+423,82011.07,5.36,613,"[0, 0, 0, 0, 0]",82011.07,Quebec,3748.4,25,53616.43,Business,0,This record falls within expected operational limits.
+424,46270.94,4.01,537,"[0, 0, 0, 1, 1]",44270.94,Ontario,-937.48,67,80642.6,Mortgage,0,This record falls within expected operational limits.
+425,51783.14,2.84,664,"[0, 0, 0, 0, 0]",51783.14,Manitoba,3976.38,31,114936.04,Business,0,This record falls within expected operational limits.
+426,101541.31,3.45,616,"[0, 0, 0, 0, 0]",101541.31,British Columbia,2999.65,41,74070.03,Business,0,This record falls within expected operational limits.
+427,80976.87,8.21,523,"[0, 0, 0, 0, 0]",80976.87,Alberta,1847.55,57,71087.66,Mortgage,0,This record falls within expected operational limits.
+428,143500.94,3.54,671,"[0, 0, 0, 0, 0]",143500.94,Alberta,3277.56,37,119478.56,Mortgage,0,This record falls within expected operational limits.
+429,50147.74,5.36,609,"[0, 0, 0, 0, 0]",50147.74,Manitoba,4068.02,46,40613.11,Mortgage,0,This record falls within expected operational limits.
+430,133834.7,3.87,704,"[0, 0, 0, 0, 1]",132834.7,Alberta,1411.85,48,93875.94,Business,0,This record falls within expected operational limits.
+431,5108.19,4.9,653,"[0, 0, 0, 0, 0]",5108.19,Ontario,314.2,28,49131.77,Mortgage,0,This record falls within expected operational limits.
+432,84209.96,4.73,615,"[1, 0, 0, 0, 0]",83209.96,Manitoba,1630.5,62,74655.51,Business,0,This record falls within expected operational limits.
+433,-6831.08,4.54,767,"[0, 0, 0, 0, 0]",-6831.08,Ontario,2374.52,68,64571.89,Personal,0,This record falls within expected operational limits.
+434,74326.05,4.54,787,"[1, 0, 0, 0, 0]",73326.05,Quebec,-217.99,63,55789.05,Personal,0,This record falls within expected operational limits.
+435,80001.54,4.62,598,"[1, 0, 0, 0, 0]",79001.54,Quebec,1787.51,53,123781.9,Mortgage,0,This record falls within expected operational limits.
+436,68349.78,5.53,685,"[1, 0, 0, 0, 0]",67349.78,Manitoba,435.58,22,132611.26,Mortgage,0,This record falls within expected operational limits.
+437,60887.49,6.13,690,"[0, 0, 0, 0, 0]",60887.49,Alberta,3967.8,52,89819.65,Personal,0,This record falls within expected operational limits.
+438,32948.08,3.31,769,"[1, 1, 1, 0, 0]",29948.08,Ontario,2861.89,55,103641.11,Personal,0,This record falls within expected operational limits.
+439,88997.34,6.59,581,"[0, 1, 1, 0, 0]",86997.34,Quebec,2246.73,34,149668.09,Business,0,This record falls within expected operational limits.
+440,56338.28,4.83,795,"[0, 0, 0, 1, 0]",55338.28,British Columbia,244.62,51,74476.7,Business,0,This record falls within expected operational limits.
+441,58877.66,6.52,519,"[0, 0, 0, 0, 1]",57877.66,Quebec,1842.45,50,34927.52,Mortgage,0,This record falls within expected operational limits.
+442,95429.09,4.44,684,"[0, 1, 0, 0, 0]",94429.09,British Columbia,543.02,54,53550.79,Mortgage,0,This record falls within expected operational limits.
+443,91057.27,4.7,421,"[1, 0, 0, 0, 0]",90057.27,Alberta,439.99,23,84578.6,Personal,0,This record falls within expected operational limits.
+444,48081.02,7.33,691,"[1, 0, 0, 1, 0]",46081.02,Alberta,554.03,38,96304.75,Personal,0,This record falls within expected operational limits.
+445,25381.53,6.1,635,"[0, 1, 0, 1, 0]",23381.53,Quebec,467.62,63,66008.34,Business,0,This record falls within expected operational limits.
+446,94042.48,3.87,699,"[0, 1, 0, 0, 0]",93042.48,British Columbia,1309.31,70,85590.24,Mortgage,0,This record falls within expected operational limits.
+447,68083.63,3.85,688,"[0, 0, 0, 0, 0]",68083.63,British Columbia,3736.47,57,58087.21,Business,0,This record falls within expected operational limits.
+448,-33097.58,6.11,707,"[0, 0, 0, 0, 0]",-33097.58,Quebec,1876.34,46,94349.0,Business,0,This record falls within expected operational limits.
+449,148820.51,2.8,635,"[0, 0, 1, 0, 0]",147820.51,Manitoba,1639.01,24,74341.06,Personal,0,This record falls within expected operational limits.
+450,35898.04,3.68,610,"[0, 0, 0, 0, 1]",34898.04,Alberta,435.77,65,73137.42,Personal,0,This record falls within expected operational limits.
+451,117588.45,7.49,538,"[0, 0, 1, 0, 0]",116588.45,Alberta,3344.45,63,23132.07,Mortgage,0,This record falls within expected operational limits.
+452,117641.72,7.91,605,"[1, 1, 0, 0, 1]",114641.72,Alberta,1806.54,26,84804.4,Personal,0,This record falls within expected operational limits.
+453,122305.06,7.56,542,"[0, 1, 1, 0, 0]",120305.06,Manitoba,3229.61,24,53321.33,Personal,0,This record falls within expected operational limits.
+454,6160.16,5.81,646,"[0, 0, 1, 0, 0]",5160.16,Ontario,-306.89,28,56967.66,Personal,0,This record falls within expected operational limits.
+455,73172.97,4.04,658,"[0, 0, 0, 0, 0]",73172.97,Quebec,1294.56,58,65185.95,Business,0,This record falls within expected operational limits.
+456,39004.59,7.57,616,"[1, 0, 0, 0, 0]",38004.59,British Columbia,2949.75,69,104063.38,Business,0,This record falls within expected operational limits.
+457,28962.37,7.82,674,"[0, 1, 0, 0, 0]",27962.37,British Columbia,2868.82,69,42829.25,Mortgage,0,This record falls within expected operational limits.
+458,-6018.92,4.57,719,"[0, 0, 0, 0, 0]",-6018.92,British Columbia,1073.33,69,91881.96,Mortgage,0,This record falls within expected operational limits.
+459,8064.17,4.33,572,"[0, 0, 0, 0, 1]",7064.17,Alberta,388.57,58,68884.0,Personal,0,This record falls within expected operational limits.
+460,95108.25,4.39,562,"[0, 0, 0, 0, 0]",95108.25,Ontario,1785.65,35,78061.77,Mortgage,0,This record falls within expected operational limits.
+461,89418.47,4.39,687,"[0, 0, 0, 1, 0]",88418.47,Alberta,2233.07,51,74103.46,Personal,0,This record falls within expected operational limits.
+462,78498.08,6.29,582,"[1, 0, 1, 0, 1]",75498.08,Manitoba,-310.33,70,83572.72,Mortgage,0,This record falls within expected operational limits.
+463,159185.28,7.59,606,"[0, 0, 0, 0, 0]",159185.28,British Columbia,-812.86,21,70480.32,Mortgage,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+464,31273.7,5.25,689,"[0, 0, 0, 0, 0]",31273.7,Manitoba,3155.43,57,59717.7,Personal,0,This record falls within expected operational limits.
+465,79177.09,6.21,565,"[0, 0, 0, 0, 1]",78177.09,Manitoba,4634.94,70,80428.85,Business,0,This record falls within expected operational limits.
+466,-23286.19,3.92,794,"[0, 0, 0, 0, 0]",-23286.19,Quebec,2867.98,59,48025.64,Personal,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+467,65034.56,5.91,717,"[0, 0, 0, 1, 0]",64034.56,British Columbia,234.22,35,103173.23,Business,0,This record falls within expected operational limits.
+468,116991.96,8.83,633,"[0, 0, 0, 0, 0]",116991.96,Alberta,3493.37,43,105857.62,Personal,0,This record falls within expected operational limits.
+469,16204.03,6.33,576,"[0, 0, 0, 0, 0]",16204.03,Alberta,2104.34,24,57490.99,Mortgage,0,This record falls within expected operational limits.
+470,6671.7,4.0,627,"[0, 0, 0, 0, 0]",6671.7,Ontario,1664.22,66,95345.61,Business,0,This record falls within expected operational limits.
+471,70580.5,4.53,745,"[0, 0, 1, 0, 0]",69580.5,Alberta,3334.41,49,89422.58,Mortgage,0,This record falls within expected operational limits.
+472,40363.65,5.64,604,"[0, 0, 0, 0, 1]",39363.65,Quebec,5291.66,57,31323.87,Mortgage,0,This record falls within expected operational limits.
+473,64338.34,8.0,706,"[0, 0, 0, 0, 0]",64338.34,Ontario,4795.5,64,85390.93,Business,0,This record falls within expected operational limits.
+474,104265.67,3.8,607,"[0, 0, 1, 0, 0]",103265.67,Quebec,881.45,24,55378.56,Personal,0,This record falls within expected operational limits.
+475,34973.33,4.19,531,"[1, 0, 0, 0, 0]",33973.33,British Columbia,296.39,54,80005.79,Personal,0,This record falls within expected operational limits.
+476,67345.3,2.82,645,"[0, 0, 0, 0, 0]",67345.3,Ontario,3596.59,43,108886.98,Mortgage,0,This record falls within expected operational limits.
+477,78508.33,6.59,635,"[0, 0, 0, 0, 0]",78508.33,Alberta,2466.12,65,87897.65,Mortgage,0,This record falls within expected operational limits.
+478,36688.54,6.41,721,"[0, 0, 0, 0, 0]",36688.54,Ontario,2492.31,36,73479.22,Personal,0,This record falls within expected operational limits.
+479,-9212.55,3.33,515,"[0, 0, 0, 0, 0]",-9212.55,Quebec,4140.08,49,63210.42,Business,0,This record falls within expected operational limits.
+480,119788.49,4.5,618,"[1, 0, 0, 0, 1]",117788.49,Alberta,3093.51,26,85576.23,Personal,0,This record falls within expected operational limits.
+481,81462.97,2.43,611,"[1, 0, 0, 0, 0]",80462.97,Alberta,297.66,21,51494.3,Business,0,This record falls within expected operational limits.
+482,63615.33,3.3,647,"[0, 0, 0, 0, 0]",63615.33,Alberta,-862.41,41,61567.91,Mortgage,0,This record falls within expected operational limits.
+483,84723.35,4.74,612,"[1, 0, 1, 0, 0]",82723.35,Alberta,4333.13,21,90602.19,Mortgage,0,This record falls within expected operational limits.
+484,47123.09,5.98,649,"[0, 0, 0, 0, 0]",47123.09,Quebec,1171.28,37,51044.64,Personal,0,This record falls within expected operational limits.
+485,47418.11,4.69,624,"[0, 0, 1, 0, 0]",46418.11,British Columbia,4296.55,28,109838.64,Personal,0,This record falls within expected operational limits.
+486,75798.05,4.95,676,"[0, 0, 0, 0, 1]",74798.05,British Columbia,3724.38,54,73378.83,Mortgage,0,This record falls within expected operational limits.
+487,49375.32,3.72,745,"[1, 0, 0, 1, 0]",47375.32,Quebec,1511.86,29,18050.91,Mortgage,0,This record falls within expected operational limits.
+488,84276.29,6.46,503,"[0, 0, 0, 0, 1]",83276.29,Quebec,-98.23,53,86669.48,Personal,0,This record falls within expected operational limits.
+489,46906.82,6.96,676,"[0, 0, 1, 0, 0]",45906.82,Quebec,-1053.02,45,96988.25,Business,0,This record falls within expected operational limits.
+490,39570.6,5.38,781,"[0, 0, 0, 1, 0]",38570.6,Manitoba,2179.73,54,52747.36,Personal,0,This record falls within expected operational limits.
+491,121221.44,5.2,789,"[1, 0, 0, 0, 0]",120221.44,Ontario,1850.14,21,102817.58,Mortgage,0,This record falls within expected operational limits.
+492,66019.13,5.13,690,"[0, 0, 0, 0, 1]",65019.13,Alberta,2426.42,67,52435.25,Personal,0,This record falls within expected operational limits.
+493,125759.66,3.94,534,"[0, 1, 0, 0, 1]",123759.66,Alberta,2617.39,49,64671.97,Personal,0,This record falls within expected operational limits.
+494,82393.04,2.91,589,"[0, 0, 0, 1, 0]",81393.04,Ontario,3360.94,51,95017.2,Personal,0,This record falls within expected operational limits.
+495,66461.06,4.38,649,"[0, 0, 0, 0, 0]",66461.06,Quebec,2739.24,59,91517.38,Business,0,This record falls within expected operational limits.
+496,34340.51,5.33,653,"[1, 0, 0, 0, 0]",33340.51,British Columbia,1474.52,45,91691.49,Mortgage,0,This record falls within expected operational limits.
+497,66199.5,5.18,534,"[0, 0, 0, 0, 0]",66199.5,British Columbia,3901.54,33,134279.26,Mortgage,0,This record falls within expected operational limits.
+498,117068.86,3.99,760,"[0, 0, 0, 0, 1]",116068.86,Quebec,1228.85,50,54958.68,Business,0,This record falls within expected operational limits.
+499,13668.17,8.35,679,"[0, 0, 0, 0, 0]",13668.17,British Columbia,1985.49,50,102611.21,Business,0,This record falls within expected operational limits.
+500,45308.46,7.69,715,"[0, 0, 0, 0, 0]",45308.46,Manitoba,2100.42,60,43142.93,Mortgage,0,This record falls within expected operational limits.
+501,75571.73,4.33,733,"[0, 0, 0, 0, 1]",74571.73,Manitoba,2965.17,43,85809.37,Business,0,This record falls within expected operational limits.
+502,12558.65,8.14,600,"[0, 1, 1, 1, 1]",8558.65,Quebec,2784.37,31,108408.58,Mortgage,0,This record falls within expected operational limits.
+503,47861.74,6.94,631,"[0, 0, 1, 0, 0]",46861.74,British Columbia,1033.54,54,75743.97,Business,0,This record falls within expected operational limits.
+504,70973.46,6.26,528,"[0, 1, 0, 0, 0]",69973.46,Alberta,2069.01,57,90737.71,Mortgage,0,This record falls within expected operational limits.
+505,34797.48,3.49,560,"[0, 1, 0, 0, 1]",32797.48,Quebec,1420.01,38,53041.94,Mortgage,0,This record falls within expected operational limits.
+506,63132.32,6.02,648,"[0, 1, 0, 0, 1]",61132.32,British Columbia,5008.58,35,103889.22,Business,0,This record falls within expected operational limits.
+507,60724.56,9.26,676,"[0, 0, 0, 0, 0]",60724.56,Manitoba,2675.5,52,90550.13,Mortgage,0,This record falls within expected operational limits.
+508,52167.89,5.35,679,"[0, 0, 0, 0, 0]",52167.89,British Columbia,2141.84,50,78988.51,Business,0,This record falls within expected operational limits.
+509,27325.07,7.54,737,"[0, 1, 0, 0, 0]",26325.07,Quebec,2180.23,65,81861.63,Business,0,This record falls within expected operational limits.
+510,117452.1,6.59,669,"[0, 0, 1, 0, 0]",116452.1,British Columbia,2375.97,49,106561.33,Personal,0,This record falls within expected operational limits.
+511,95596.64,5.09,661,"[0, 0, 1, 0, 0]",94596.64,Manitoba,2012.02,23,47254.05,Mortgage,0,This record falls within expected operational limits.
+512,81048.89,3.72,626,"[1, 0, 0, 0, 0]",80048.89,Quebec,2743.27,47,30143.3,Personal,0,This record falls within expected operational limits.
+513,134397.37,2.05,624,"[0, 0, 0, 1, 0]",133397.37,Alberta,1960.9,35,83311.41,Mortgage,0,This record falls within expected operational limits.
+514,29292.9,6.04,556,"[0, 0, 0, 1, 0]",28292.9,Manitoba,1491.39,57,96964.34,Business,0,This record falls within expected operational limits.
+515,73463.29,3.49,692,"[1, 0, 0, 0, 0]",72463.29,Quebec,1903.29,49,60452.18,Personal,0,This record falls within expected operational limits.
+516,147493.57,6.76,572,"[1, 0, 1, 0, 0]",145493.57,Manitoba,1606.84,49,98980.59,Business,0,This record falls within expected operational limits.
+517,51898.5,6.66,545,"[1, 0, 1, 1, 0]",48898.5,British Columbia,2683.47,69,42492.05,Personal,0,This record falls within expected operational limits.
+518,18227.83,7.07,631,"[1, 0, 0, 0, 0]",17227.83,British Columbia,274.96,48,45698.63,Mortgage,0,This record falls within expected operational limits.
+519,105701.99,4.06,684,"[0, 0, 0, 0, 0]",105701.99,British Columbia,2077.62,28,75583.78,Personal,0,This record falls within expected operational limits.
+520,132165.98,5.76,600,"[0, 0, 0, 0, 0]",132165.98,British Columbia,72.86,63,66792.48,Business,0,This record falls within expected operational limits.
+521,41765.92,5.05,674,"[0, 0, 0, 0, 1]",40765.92,Ontario,2965.57,27,124334.79,Mortgage,0,This record falls within expected operational limits.
+522,32311.18,2.36,668,"[0, 0, 1, 0, 0]",31311.18,British Columbia,1252.96,67,54016.03,Mortgage,0,This record falls within expected operational limits.
+523,112200.35,5.43,693,"[0, 0, 0, 0, 1]",111200.35,Alberta,1572.75,27,43881.21,Business,0,This record falls within expected operational limits.
+524,85662.2,5.55,853,"[0, 0, 0, 0, 0]",85662.2,Manitoba,1886.84,62,74399.96,Mortgage,0,This record falls within expected operational limits.
+525,98190.63,6.75,636,"[0, 0, 0, 0, 1]",97190.63,Manitoba,5621.81,48,87712.18,Personal,0,This record falls within expected operational limits.
+526,111919.04,6.11,741,"[0, 0, 0, 0, 0]",111919.04,Ontario,2178.74,43,63835.88,Business,0,This record falls within expected operational limits.
+527,96414.55,6.95,676,"[0, 1, 1, 0, 0]",94414.55,British Columbia,1721.82,22,42236.62,Personal,0,This record falls within expected operational limits.
+528,123002.61,4.16,478,"[1, 0, 0, 0, 0]",122002.61,Quebec,3899.31,26,97481.38,Personal,0,This record falls within expected operational limits.
+529,115252.76,3.84,704,"[0, 0, 0, 0, 0]",115252.76,Quebec,368.33,62,82923.31,Mortgage,0,This record falls within expected operational limits.
+530,62032.6,5.84,745,"[0, 0, 0, 0, 0]",62032.6,British Columbia,4404.56,37,83153.27,Mortgage,0,This record falls within expected operational limits.
+531,127372.34,5.13,707,"[0, 0, 0, 0, 0]",127372.34,Ontario,1053.57,31,69052.48,Personal,0,This record falls within expected operational limits.
+532,6133.37,5.3,742,"[0, 1, 0, 0, 0]",5133.37,Ontario,5767.51,29,92639.16,Business,0,This record falls within expected operational limits.
+533,61978.68,6.69,717,"[1, 0, 0, 0, 1]",59978.68,Quebec,3599.36,64,101759.59,Business,0,This record falls within expected operational limits.
+534,84876.45,5.38,658,"[0, 1, 0, 1, 0]",82876.45,Manitoba,3341.24,31,101724.89,Business,0,This record falls within expected operational limits.
+535,39823.02,8.7,592,"[1, 0, 0, 0, 1]",37823.02,Quebec,-830.07,23,79100.77,Mortgage,0,This record falls within expected operational limits.
+536,8390.95,4.81,637,"[0, 0, 0, 0, 0]",8390.95,British Columbia,3141.89,70,59789.67,Mortgage,0,This record falls within expected operational limits.
+537,93124.76,4.25,649,"[1, 0, 0, 0, 0]",92124.76,Ontario,3052.15,48,39336.05,Business,0,This record falls within expected operational limits.
+538,86077.1,4.6,603,"[0, 0, 0, 0, 0]",86077.1,Quebec,3204.47,34,126099.81,Mortgage,0,This record falls within expected operational limits.
+539,105976.81,4.78,716,"[0, 0, 0, 0, 0]",105976.81,Quebec,1910.22,59,98768.09,Business,0,This record falls within expected operational limits.
+540,42021.79,4.62,725,"[0, 0, 0, 0, 0]",42021.79,Manitoba,3306.42,61,45906.61,Business,0,This record falls within expected operational limits.
+541,88523.79,5.95,650,"[0, 0, 0, 0, 0]",88523.79,Quebec,2621.83,25,85067.03,Business,0,This record falls within expected operational limits.
+542,-5642.4,5.23,685,"[0, 0, 0, 0, 0]",-5642.4,Ontario,746.96,21,43632.53,Business,0,This record falls within expected operational limits.
+543,64881.32,6.69,694,"[0, 0, 0, 0, 0]",64881.32,British Columbia,1577.28,65,135167.5,Business,0,This record falls within expected operational limits.
+544,116941.81,7.39,593,"[0, 0, 0, 0, 0]",116941.81,Manitoba,2748.75,44,65468.41,Business,0,This record falls within expected operational limits.
+545,89701.79,1.94,728,"[0, 0, 0, 0, 0]",89701.79,Ontario,1405.58,50,64311.08,Mortgage,0,This record falls within expected operational limits.
+546,87282.95,4.28,674,"[0, 0, 0, 0, 0]",87282.95,Quebec,393.15,59,70752.55,Personal,0,This record falls within expected operational limits.
+547,7764.08,7.19,621,"[0, 0, 0, 0, 0]",7764.08,Quebec,3317.61,57,88965.46,Mortgage,0,This record falls within expected operational limits.
+548,54860.79,6.86,750,"[0, 0, 0, 0, 0]",54860.79,Alberta,1175.45,37,99015.98,Personal,0,This record falls within expected operational limits.
+549,158699.37,4.68,683,"[1, 0, 0, 0, 1]",156699.37,Manitoba,3721.14,53,39209.95,Personal,0,This record falls within expected operational limits.
+550,131483.34,8.81,685,"[0, 1, 0, 0, 0]",130483.34,Alberta,1180.57,34,87256.69,Mortgage,0,This record falls within expected operational limits.
+551,64810.17,7.17,550,"[0, 1, 0, 1, 1]",61810.17,Manitoba,1250.16,24,119149.81,Mortgage,0,This record falls within expected operational limits.
+552,21059.65,6.58,697,"[0, 0, 0, 0, 0]",21059.65,Alberta,3593.27,37,34131.84,Mortgage,0,This record falls within expected operational limits.
+553,121105.92,6.48,688,"[0, 0, 1, 0, 0]",120105.92,Quebec,2308.07,29,49911.11,Business,0,This record falls within expected operational limits.
+554,48431.81,6.05,670,"[0, 0, 0, 0, 1]",47431.81,Ontario,1785.84,38,118534.5,Personal,0,This record falls within expected operational limits.
+555,50910.96,5.24,505,"[0, 0, 1, 0, 1]",48910.96,Manitoba,2929.93,63,30936.86,Business,0,This record falls within expected operational limits.
+556,37547.19,2.94,478,"[0, 0, 0, 0, 0]",37547.19,Manitoba,3595.27,60,52252.57,Personal,0,This record falls within expected operational limits.
+557,83257.35,3.81,678,"[0, 0, 0, 0, 0]",83257.35,British Columbia,3481.11,68,39878.9,Business,0,This record falls within expected operational limits.
+558,44185.23,5.59,676,"[1, 0, 0, 0, 0]",43185.23,Ontario,-973.35,48,84137.17,Personal,0,This record falls within expected operational limits.
+559,159514.58,3.58,576,"[0, 0, 0, 0, 0]",159514.58,Ontario,3353.15,65,40144.71,Personal,0,This record falls within expected operational limits.
+560,74397.4,7.64,629,"[0, 0, 0, 0, 0]",74397.4,Quebec,1582.09,32,102821.79,Business,0,This record falls within expected operational limits.
+561,50113.8,5.82,699,"[1, 1, 0, 0, 0]",48113.8,Alberta,926.83,42,73580.99,Mortgage,0,This record falls within expected operational limits.
+562,94229.58,4.04,541,"[1, 0, 0, 0, 0]",93229.58,Quebec,3918.14,69,90934.35,Mortgage,0,This record falls within expected operational limits.
+563,9237.26,6.51,660,"[0, 0, 0, 0, 0]",9237.26,Alberta,2448.41,41,21179.76,Mortgage,0,This record falls within expected operational limits.
+564,42928.65,7.09,599,"[0, 1, 0, 1, 0]",40928.65,British Columbia,1582.86,30,23277.37,Mortgage,0,This record falls within expected operational limits.
+565,96356.12,4.77,572,"[0, 0, 1, 1, 0]",94356.12,Ontario,1788.71,56,65876.54,Business,0,This record falls within expected operational limits.
+566,83752.51,2.22,603,"[0, 0, 0, 0, 0]",83752.51,Ontario,-516.88,35,111663.29,Business,0,This record falls within expected operational limits.
+567,103803.45,4.77,633,"[0, 0, 0, 0, 0]",103803.45,British Columbia,901.22,41,120018.82,Personal,0,This record falls within expected operational limits.
+568,73826.17,7.78,567,"[0, 0, 0, 1, 0]",72826.17,Manitoba,1576.23,62,20284.76,Personal,0,This record falls within expected operational limits.
+569,49552.32,5.82,637,"[0, 1, 0, 0, 0]",48552.32,British Columbia,1300.11,30,77526.65,Mortgage,0,This record falls within expected operational limits.
+570,31330.1,6.69,530,"[0, 0, 0, 0, 0]",31330.1,Quebec,2216.33,57,51698.28,Mortgage,0,This record falls within expected operational limits.
+571,63082.61,6.86,721,"[0, 0, 0, 0, 0]",63082.61,Quebec,3652.83,39,62788.7,Business,0,This record falls within expected operational limits.
+572,2269.54,7.29,732,"[0, 0, 0, 0, 1]",1269.54,Manitoba,2797.47,69,77454.19,Personal,0,This record falls within expected operational limits.
+573,60600.08,2.7,653,"[1, 0, 0, 0, 0]",59600.08,Quebec,3509.74,47,75572.33,Mortgage,0,This record falls within expected operational limits.
+574,59354.64,5.2,601,"[0, 0, 0, 0, 0]",59354.64,Ontario,1950.19,36,76110.88,Mortgage,0,This record falls within expected operational limits.
+575,124400.67,3.91,777,"[1, 0, 0, 0, 0]",123400.67,Quebec,1966.2,68,49441.28,Personal,0,This record falls within expected operational limits.
+576,127656.84,7.33,582,"[0, 0, 0, 0, 0]",127656.84,Quebec,2399.39,25,82640.65,Personal,0,This record falls within expected operational limits.
+577,134773.3,1.88,656,"[0, 0, 0, 0, 0]",134773.3,Alberta,4514.03,63,140217.63,Mortgage,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+578,44832.42,3.58,590,"[0, 0, 0, 0, 1]",43832.42,Quebec,-370.59,51,89169.24,Mortgage,0,This record falls within expected operational limits.
+579,49427.01,7.53,520,"[0, 0, 0, 0, 0]",49427.01,Alberta,3213.28,46,110127.34,Personal,0,This record falls within expected operational limits.
+580,29946.3,6.88,718,"[0, 0, 0, 0, 1]",28946.3,Alberta,1737.62,50,146422.88,Business,0,This record falls within expected operational limits.
+581,124647.94,2.42,606,"[0, 0, 0, 0, 0]",124647.94,Alberta,1069.42,31,14327.22,Business,0,This record falls within expected operational limits.
+582,78847.22,7.01,713,"[0, 0, 0, 1, 0]",77847.22,Quebec,1452.5,26,47130.93,Personal,0,This record falls within expected operational limits.
+583,49285.69,4.09,603,"[0, 0, 0, 0, 1]",48285.69,British Columbia,1082.47,65,113381.17,Mortgage,0,This record falls within expected operational limits.
+584,83032.47,3.35,637,"[1, 0, 0, 0, 0]",82032.47,Quebec,2992.67,42,87929.31,Business,0,This record falls within expected operational limits.
+585,65805.78,8.37,643,"[0, 0, 1, 0, 0]",64805.78,Manitoba,-156.75,60,60170.16,Business,0,This record falls within expected operational limits.
+586,93702.6,4.77,784,"[0, 0, 1, 0, 0]",92702.6,Quebec,1929.16,53,90826.65,Mortgage,0,This record falls within expected operational limits.
+587,71739.73,3.88,640,"[0, 0, 1, 0, 0]",70739.73,British Columbia,4101.65,24,42044.77,Personal,0,This record falls within expected operational limits.
+588,83882.64,4.73,539,"[0, 0, 0, 0, 0]",83882.64,British Columbia,5375.29,54,96867.45,Personal,0,This record falls within expected operational limits.
+589,55726.28,6.27,734,"[0, 0, 0, 0, 1]",54726.28,Manitoba,1666.99,21,67767.45,Mortgage,0,This record falls within expected operational limits.
+590,167790.85,4.45,576,"[0, 0, 0, 0, 0]",167790.85,British Columbia,130.55,55,122190.83,Mortgage,0,This record falls within expected operational limits.
+591,76332.26,5.56,698,"[0, 0, 0, 0, 0]",76332.26,Ontario,5147.39,33,67040.47,Business,0,This record falls within expected operational limits.
+592,66635.05,5.27,677,"[0, 0, 0, 0, 1]",65635.05,Alberta,278.53,57,119792.48,Mortgage,0,This record falls within expected operational limits.
+593,79048.34,3.78,690,"[0, 0, 0, 0, 0]",79048.34,Manitoba,823.31,28,131721.99,Personal,0,This record falls within expected operational limits.
+594,21597.19,4.71,544,"[0, 0, 0, 0, 1]",20597.19,British Columbia,2157.63,36,49965.3,Personal,0,This record falls within expected operational limits.
+595,50363.72,5.18,619,"[0, 0, 0, 0, 0]",50363.72,Manitoba,4820.2,28,62523.8,Business,0,This record falls within expected operational limits.
+596,120682.06,6.59,702,"[0, 0, 0, 1, 0]",119682.06,Ontario,716.03,51,72208.49,Business,0,This record falls within expected operational limits.
+597,41462.04,5.55,738,"[0, 0, 0, 0, 0]",41462.04,Quebec,3028.06,42,72455.05,Mortgage,0,This record falls within expected operational limits.
+598,32937.62,3.26,719,"[0, 0, 0, 0, 0]",32937.62,Ontario,2231.49,64,44149.66,Mortgage,0,This record falls within expected operational limits.
+599,71784.58,4.99,602,"[0, 0, 1, 1, 0]",69784.58,Ontario,3870.47,68,92975.87,Personal,0,This record falls within expected operational limits.
+600,32028.93,5.03,699,"[0, 0, 0, 0, 0]",32028.93,British Columbia,4929.21,61,93148.48,Mortgage,0,This record falls within expected operational limits.
+601,83122.41,5.3,711,"[0, 0, 0, 0, 0]",83122.41,Ontario,2854.31,69,92548.9,Business,0,This record falls within expected operational limits.
+602,41973.35,4.72,643,"[0, 0, 0, 0, 0]",41973.35,Manitoba,1782.04,37,66760.31,Personal,0,This record falls within expected operational limits.
+603,105066.26,6.26,650,"[0, 0, 0, 0, 1]",104066.26,Quebec,973.06,53,26987.3,Business,0,This record falls within expected operational limits.
+604,93148.12,6.35,612,"[0, 0, 0, 0, 0]",93148.12,Quebec,2735.16,50,63888.75,Business,0,This record falls within expected operational limits.
+605,94766.07,4.81,601,"[0, 0, 0, 0, 0]",94766.07,Quebec,935.15,39,117414.29,Mortgage,0,This record falls within expected operational limits.
+606,108109.37,6.14,611,"[0, 0, 0, 1, 0]",107109.37,Ontario,3049.85,65,66832.19,Personal,0,This record falls within expected operational limits.
+607,132182.2,5.13,675,"[0, 0, 0, 0, 1]",131182.2,Manitoba,1747.84,45,90624.67,Personal,0,This record falls within expected operational limits.
+608,22923.69,1.6,637,"[0, 0, 0, 0, 0]",22923.69,Quebec,3404.98,45,66336.45,Business,0,This record falls within expected operational limits.
+609,77918.45,6.85,585,"[0, 0, 0, 0, 1]",76918.45,Quebec,5634.4,26,101270.28,Personal,0,This record falls within expected operational limits.
+610,41438.0,5.89,680,"[0, 0, 1, 1, 0]",39438.0,Quebec,1829.22,65,118999.15,Business,0,This record falls within expected operational limits.
+611,28687.86,3.8,702,"[0, 0, 0, 1, 0]",27687.86,Ontario,3926.39,61,147867.45,Personal,0,This record falls within expected operational limits.
+612,134232.46,6.21,779,"[1, 0, 0, 0, 0]",133232.46,Manitoba,-1909.46,60,50488.82,Mortgage,0,This record falls within expected operational limits.
+613,112613.68,5.28,628,"[0, 0, 1, 0, 0]",111613.68,British Columbia,1469.95,69,28179.13,Business,0,This record falls within expected operational limits.
+614,37490.11,3.62,617,"[0, 0, 0, 0, 0]",37490.11,Ontario,1039.02,65,65044.04,Mortgage,0,This record falls within expected operational limits.
+615,98531.97,4.39,692,"[0, 0, 0, 0, 0]",98531.97,Quebec,547.5,67,51390.76,Personal,0,This record falls within expected operational limits.
+616,75567.4,2.96,571,"[0, 0, 1, 0, 1]",73567.4,Ontario,5050.24,22,57559.22,Business,0,This record falls within expected operational limits.
+617,-7239.33,5.43,528,"[0, 0, 0, 0, 1]",-8239.33,Manitoba,1368.56,30,119156.44,Mortgage,0,This record falls within expected operational limits.
+618,33843.26,4.12,803,"[0, 0, 0, 0, 0]",33843.26,Ontario,1892.78,22,45474.29,Personal,0,This record falls within expected operational limits.
+619,111693.15,4.96,688,"[0, 0, 0, 1, 0]",110693.15,Manitoba,2821.03,53,83721.13,Personal,0,This record falls within expected operational limits.
+620,106469.93,2.45,532,"[0, 1, 0, 1, 1]",103469.93,Ontario,1933.18,59,144293.67,Mortgage,0,This record falls within expected operational limits.
+621,-15565.86,6.8,611,"[1, 0, 0, 0, 1]",-17565.86,British Columbia,760.95,60,94288.53,Business,0,This record falls within expected operational limits.
+622,102537.24,4.42,709,"[0, 0, 0, 1, 0]",101537.24,Ontario,2080.94,31,77503.0,Business,0,This record falls within expected operational limits.
+623,40041.93,4.52,618,"[0, 0, 0, 0, 0]",40041.93,Manitoba,1534.53,47,39284.11,Personal,0,This record falls within expected operational limits.
+624,86027.9,7.66,663,"[0, 0, 0, 0, 0]",86027.9,Quebec,-1567.36,31,64959.01,Business,0,This record falls within expected operational limits.
+625,66954.95,4.28,655,"[0, 0, 1, 1, 0]",64954.95,Manitoba,553.73,48,-16578.84,Business,0,This record falls within expected operational limits.
+626,24527.82,6.62,583,"[0, 0, 0, 1, 1]",22527.82,British Columbia,1634.9,25,69317.19,Business,0,This record falls within expected operational limits.
+627,123692.36,3.72,647,"[0, 0, 0, 0, 0]",123692.36,Ontario,3679.09,30,85860.38,Personal,0,This record falls within expected operational limits.
+628,77348.19,9.04,624,"[0, 0, 1, 0, 0]",76348.19,British Columbia,17.56,58,92145.63,Mortgage,0,This record falls within expected operational limits.
+629,60049.72,5.47,643,"[0, 0, 0, 0, 0]",60049.72,Alberta,4292.08,24,58484.92,Mortgage,0,This record falls within expected operational limits.
+630,77260.13,3.71,675,"[1, 1, 0, 0, 0]",75260.13,Alberta,758.05,58,143123.95,Business,0,This record falls within expected operational limits.
+631,82980.64,5.71,562,"[0, 1, 0, 0, 0]",81980.64,Ontario,3185.17,35,38711.2,Business,0,This record falls within expected operational limits.
+632,111673.04,6.56,697,"[0, 0, 0, 0, 0]",111673.04,Ontario,2731.61,21,73567.1,Personal,0,This record falls within expected operational limits.
+633,65217.65,3.09,698,"[1, 0, 0, 0, 0]",64217.65,Ontario,2141.84,53,85716.78,Business,0,This record falls within expected operational limits.
+634,149797.59,4.5,567,"[0, 0, 0, 0, 0]",149797.59,Manitoba,1377.27,35,57473.75,Personal,0,This record falls within expected operational limits.
+635,1820.54,5.57,661,"[0, 0, 0, 0, 1]",820.54,Ontario,1208.63,54,88667.08,Personal,0,This record falls within expected operational limits.
+636,104016.2,5.44,766,"[0, 0, 0, 0, 1]",103016.2,British Columbia,1014.41,49,64557.68,Mortgage,0,This record falls within expected operational limits.
+637,55750.24,2.78,806,"[0, 0, 0, 0, 0]",55750.24,Alberta,4512.25,65,105450.01,Mortgage,0,This record falls within expected operational limits.
+638,32817.31,6.63,602,"[0, 0, 0, 1, 0]",31817.31,Ontario,1641.4,29,74884.56,Mortgage,0,This record falls within expected operational limits.
+639,69778.05,4.47,806,"[0, 0, 0, 1, 0]",68778.05,Quebec,3127.33,30,68542.97,Business,0,This record falls within expected operational limits.
+640,96887.08,5.15,717,"[0, 0, 0, 0, 1]",95887.08,Quebec,2264.55,35,111445.01,Business,0,This record falls within expected operational limits.
+641,111451.96,4.68,547,"[0, 0, 0, 0, 0]",111451.96,Quebec,1224.13,41,104999.56,Business,0,This record falls within expected operational limits.
+642,-17141.99,5.15,598,"[0, 0, 1, 0, 0]",-18141.99,Quebec,1473.2,21,60782.84,Personal,0,This record falls within expected operational limits.
+643,39200.42,5.71,735,"[0, 1, 0, 0, 0]",38200.42,British Columbia,3660.02,60,65839.68,Personal,0,This record falls within expected operational limits.
+644,54362.05,6.97,617,"[0, 1, 0, 0, 0]",53362.05,Ontario,3851.4,63,88196.38,Business,0,This record falls within expected operational limits.
+645,58317.26,4.8,725,"[1, 0, 0, 0, 0]",57317.26,Ontario,1366.8,29,52556.14,Personal,0,This record falls within expected operational limits.
+646,86572.84,9.22,568,"[0, 0, 0, 0, 0]",86572.84,British Columbia,2856.85,52,17963.95,Personal,0,This record falls within expected operational limits.
+647,44884.89,3.98,642,"[0, 1, 0, 0, 0]",43884.89,Ontario,4806.11,70,109390.36,Personal,0,This record falls within expected operational limits.
+648,78546.81,5.76,649,"[0, 0, 0, 0, 0]",78546.81,Alberta,1641.23,45,47018.64,Mortgage,0,This record falls within expected operational limits.
+649,15255.52,3.42,648,"[0, 0, 0, 0, 0]",15255.52,Alberta,217.37,70,72002.24,Business,0,This record falls within expected operational limits.
+650,86859.07,8.72,727,"[0, 0, 1, 0, 1]",84859.07,Ontario,739.18,57,100280.03,Personal,0,This record falls within expected operational limits.
+651,131293.54,2.78,714,"[0, 0, 1, 0, 0]",130293.54,Ontario,1478.52,50,126652.54,Mortgage,0,This record falls within expected operational limits.
+652,73371.96,2.29,698,"[0, 0, 0, 0, 1]",72371.96,Manitoba,1196.67,68,62206.5,Personal,0,This record falls within expected operational limits.
+653,96010.34,5.0,647,"[0, 0, 0, 1, 0]",95010.34,Ontario,5131.22,61,39783.35,Personal,0,This record falls within expected operational limits.
+654,140933.27,6.17,760,"[0, 0, 0, 0, 0]",140933.27,Alberta,2286.1,24,136791.99,Mortgage,0,This record falls within expected operational limits.
+655,114649.79,5.54,807,"[0, 0, 0, 0, 0]",114649.79,Ontario,4294.42,51,70103.73,Business,0,This record falls within expected operational limits.
+656,94827.39,7.25,740,"[0, 0, 0, 0, 0]",94827.39,Manitoba,2582.04,30,99014.11,Mortgage,0,This record falls within expected operational limits.
+657,75705.87,3.11,589,"[0, 0, 0, 0, 0]",75705.87,Alberta,323.87,45,64340.56,Personal,0,This record falls within expected operational limits.
+658,78407.3,5.89,520,"[0, 0, 0, 0, 0]",78407.3,British Columbia,3396.52,68,103639.95,Business,0,This record falls within expected operational limits.
+659,65269.43,7.12,655,"[0, 0, 0, 0, 0]",65269.43,Ontario,2423.93,56,136232.66,Personal,0,This record falls within expected operational limits.
+660,42923.41,8.98,700,"[0, 0, 0, 0, 0]",42923.41,British Columbia,4370.09,41,100520.69,Mortgage,0,This record falls within expected operational limits.
+661,74725.39,6.29,639,"[0, 0, 0, 0, 0]",74725.39,Alberta,2289.62,32,97640.52,Mortgage,0,This record falls within expected operational limits.
+662,125193.86,6.37,681,"[0, 0, 0, 1, 0]",124193.86,Manitoba,2072.8,34,33371.57,Business,0,This record falls within expected operational limits.
+663,90452.86,5.28,697,"[1, 0, 0, 1, 0]",88452.86,British Columbia,1365.8,64,126037.09,Mortgage,0,This record falls within expected operational limits.
+664,126927.83,6.7,654,"[0, 0, 0, 0, 0]",126927.83,Manitoba,251.03,46,-11661.75,Mortgage,0,This record falls within expected operational limits.
+665,122841.34,6.36,623,"[0, 0, 0, 0, 0]",122841.34,British Columbia,3862.08,66,161678.36,Mortgage,0,This record falls within expected operational limits.
+666,91906.52,1.64,648,"[0, 1, 0, 0, 0]",90906.52,Quebec,1506.31,57,24102.98,Mortgage,0,This record falls within expected operational limits.
+667,17508.33,7.92,588,"[0, 1, 0, 0, 0]",16508.33,Alberta,4926.05,40,-12194.19,Business,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+668,94574.18,5.83,706,"[1, 0, 1, 0, 1]",91574.18,Manitoba,3776.19,64,47003.5,Mortgage,0,This record falls within expected operational limits.
+669,28665.93,7.78,502,"[1, 0, 0, 0, 1]",26665.93,Alberta,-380.62,40,107373.17,Mortgage,0,This record falls within expected operational limits.
+670,107928.63,5.51,570,"[0, 0, 0, 0, 1]",106928.63,Quebec,3439.84,40,100250.03,Business,0,This record falls within expected operational limits.
+671,55812.24,6.57,750,"[1, 0, 0, 1, 0]",53812.24,British Columbia,1713.89,29,87618.95,Mortgage,0,This record falls within expected operational limits.
+672,102825.42,6.83,556,"[1, 0, 0, 0, 1]",100825.42,Manitoba,1179.7,34,75742.14,Business,0,This record falls within expected operational limits.
+673,50921.85,7.42,717,"[0, 0, 1, 0, 0]",49921.85,British Columbia,1693.53,56,63781.91,Mortgage,0,This record falls within expected operational limits.
+674,46773.07,7.61,729,"[1, 0, 1, 0, 0]",44773.07,British Columbia,592.41,70,76205.84,Mortgage,0,This record falls within expected operational limits.
+675,95532.63,6.14,725,"[0, 0, 0, 0, 1]",94532.63,Manitoba,3089.35,49,33740.17,Personal,0,This record falls within expected operational limits.
+676,91502.25,6.01,662,"[0, 0, 0, 0, 0]",91502.25,Alberta,1227.69,25,95478.01,Business,0,This record falls within expected operational limits.
+677,108851.37,3.32,695,"[0, 0, 0, 0, 0]",108851.37,British Columbia,4549.9,42,64256.52,Mortgage,0,This record falls within expected operational limits.
+678,48411.2,3.89,662,"[0, 0, 0, 0, 0]",48411.2,Manitoba,2412.48,63,86473.55,Business,0,This record falls within expected operational limits.
+679,116969.84,6.81,657,"[0, 0, 0, 0, 0]",116969.84,Alberta,3261.14,25,104630.37,Business,0,This record falls within expected operational limits.
+680,97309.46,4.84,567,"[0, 0, 0, 0, 0]",97309.46,British Columbia,600.72,56,157789.14,Personal,0,This record falls within expected operational limits.
+681,99169.9,6.13,536,"[0, 0, 0, 0, 0]",99169.9,Manitoba,142.12,37,82097.9,Business,0,This record falls within expected operational limits.
+682,50033.12,6.23,647,"[0, 0, 0, 1, 0]",49033.12,Alberta,3923.96,39,124476.19,Business,0,This record falls within expected operational limits.
+683,61155.97,7.27,617,"[1, 0, 0, 0, 0]",60155.97,Ontario,657.69,60,106399.26,Business,0,This record falls within expected operational limits.
+684,58913.37,6.47,598,"[0, 1, 0, 0, 0]",57913.37,Alberta,4117.81,50,63806.43,Personal,0,This record falls within expected operational limits.
+685,95488.85,5.64,701,"[0, 0, 0, 0, 0]",95488.85,Quebec,3027.94,48,97841.48,Mortgage,0,This record falls within expected operational limits.
+686,105278.2,5.96,769,"[0, 1, 1, 0, 0]",103278.2,Manitoba,1995.88,34,81903.94,Mortgage,0,This record falls within expected operational limits.
+687,76955.57,5.56,726,"[0, 1, 0, 0, 0]",75955.57,Alberta,4169.21,37,116857.21,Personal,0,This record falls within expected operational limits.
+688,44718.07,5.61,690,"[0, 0, 0, 0, 0]",44718.07,Ontario,842.38,53,41615.8,Business,0,This record falls within expected operational limits.
+689,76166.07,4.3,624,"[0, 0, 0, 0, 0]",76166.07,Manitoba,3566.42,49,31072.45,Business,0,This record falls within expected operational limits.
+690,88142.52,5.65,653,"[0, 0, 0, 0, 0]",88142.52,Quebec,129.98,51,84848.79,Mortgage,0,This record falls within expected operational limits.
+691,42983.22,5.47,739,"[0, 0, 0, 0, 1]",41983.22,Alberta,-108.16,47,125393.47,Mortgage,0,This record falls within expected operational limits.
+692,42389.15,5.23,636,"[0, 0, 0, 0, 0]",42389.15,Alberta,582.06,59,82618.27,Personal,0,This record falls within expected operational limits.
+693,58423.02,6.2,662,"[0, 1, 1, 0, 0]",56423.02,Manitoba,-1876.91,42,106781.67,Business,0,This record falls within expected operational limits.
+694,89174.27,9.01,715,"[0, 0, 0, 1, 0]",88174.27,British Columbia,5493.51,47,120377.59,Mortgage,0,This record falls within expected operational limits.
+695,34844.8,5.24,688,"[0, 0, 0, 1, 0]",33844.8,Quebec,2865.89,35,77010.89,Personal,0,This record falls within expected operational limits.
+696,52671.24,3.48,689,"[0, 0, 0, 0, 0]",52671.24,British Columbia,-249.81,61,79052.42,Mortgage,0,This record falls within expected operational limits.
+697,149164.39,6.86,751,"[1, 0, 0, 0, 0]",148164.39,Alberta,3589.03,65,99577.59,Business,0,This record falls within expected operational limits.
+698,71395.54,4.54,624,"[1, 0, 1, 0, 0]",69395.54,British Columbia,511.86,57,107112.35,Personal,0,This record falls within expected operational limits.
+699,23894.91,4.54,710,"[1, 0, 0, 0, 0]",22894.91,British Columbia,-961.3,24,81444.6,Business,0,This record falls within expected operational limits.
+700,100825.4,8.16,669,"[0, 1, 0, 0, 0]",99825.4,Quebec,2413.24,37,110517.74,Personal,0,This record falls within expected operational limits.
+701,67803.42,5.97,675,"[1, 0, 0, 0, 0]",66803.42,Ontario,2967.93,43,79227.53,Mortgage,0,This record falls within expected operational limits.
+702,4807.5,7.22,609,"[0, 0, 1, 0, 0]",3807.5,Quebec,3497.59,70,87506.1,Mortgage,0,This record falls within expected operational limits.
+703,54328.35,3.74,659,"[0, 0, 0, 0, 0]",54328.35,Ontario,844.73,22,54850.86,Mortgage,0,This record falls within expected operational limits.
+704,75895.88,4.89,575,"[0, 0, 0, 0, 0]",75895.88,Manitoba,4564.75,37,88822.61,Mortgage,0,This record falls within expected operational limits.
+705,71139.86,5.03,708,"[0, 0, 0, 0, 0]",71139.86,Quebec,1357.18,70,103247.44,Business,0,This record falls within expected operational limits.
+706,128255.1,2.58,667,"[0, 1, 1, 1, 0]",125255.1,Alberta,1438.12,25,75700.75,Business,0,This record falls within expected operational limits.
+707,28707.51,2.61,642,"[0, 0, 0, 0, 0]",28707.51,Ontario,1404.09,57,35801.74,Personal,0,This record falls within expected operational limits.
+708,47420.32,6.5,591,"[0, 1, 0, 0, 0]",46420.32,Manitoba,364.61,44,23263.18,Business,0,This record falls within expected operational limits.
+709,99809.83,7.19,538,"[0, 0, 0, 0, 0]",99809.83,Quebec,1573.48,44,44745.73,Business,0,This record falls within expected operational limits.
+710,86832.83,5.5,645,"[0, 0, 0, 0, 0]",86832.83,British Columbia,3600.19,34,67708.8,Business,0,This record falls within expected operational limits.
+711,4179.39,5.54,667,"[0, 0, 1, 0, 0]",3179.39,Quebec,3170.17,68,83947.88,Mortgage,0,This record falls within expected operational limits.
+712,74311.4,4.96,678,"[0, 1, 0, 0, 0]",73311.4,Ontario,4271.2,48,30382.8,Business,0,This record falls within expected operational limits.
+713,126042.7,7.85,635,"[0, 0, 0, 0, 1]",125042.7,Alberta,1934.88,58,130135.75,Personal,0,This record falls within expected operational limits.
+714,110207.18,3.94,648,"[0, 0, 0, 0, 0]",110207.18,Ontario,2749.74,65,50065.96,Business,0,This record falls within expected operational limits.
+715,37202.69,5.99,603,"[1, 0, 0, 0, 1]",35202.69,Alberta,1598.07,64,86096.42,Mortgage,0,This record falls within expected operational limits.
+716,42778.24,5.49,559,"[0, 0, 0, 0, 0]",42778.24,Ontario,1446.09,46,50615.94,Business,0,This record falls within expected operational limits.
+717,118762.45,5.08,541,"[0, 1, 0, 1, 0]",116762.45,Quebec,2621.15,56,105664.85,Personal,0,This record falls within expected operational limits.
+718,20442.04,6.41,587,"[0, 0, 0, 1, 0]",19442.04,Quebec,2272.0,55,65865.1,Business,0,This record falls within expected operational limits.
+719,78725.65,4.5,664,"[0, 0, 0, 0, 0]",78725.65,Quebec,1639.35,28,118106.14,Personal,0,This record falls within expected operational limits.
+720,85470.25,6.73,579,"[0, 0, 1, 0, 0]",84470.25,Ontario,2238.02,57,45428.88,Business,0,This record falls within expected operational limits.
+721,46270.06,4.44,527,"[0, 0, 1, 0, 0]",45270.06,Quebec,5512.63,24,114062.27,Personal,0,This record falls within expected operational limits.
+722,130006.56,5.76,574,"[0, 1, 0, 0, 0]",129006.56,Manitoba,2806.2,48,82777.03,Personal,0,This record falls within expected operational limits.
+723,30206.2,5.24,744,"[0, 0, 0, 0, 0]",30206.2,Ontario,1956.4,41,64819.18,Mortgage,0,This record falls within expected operational limits.
+724,85931.36,6.67,607,"[0, 0, 0, 1, 0]",84931.36,Ontario,4916.93,24,79929.73,Personal,0,This record falls within expected operational limits.
+725,155592.83,5.46,600,"[0, 0, 0, 0, 1]",154592.83,British Columbia,1346.27,65,68721.26,Personal,0,This record falls within expected operational limits.
+726,105401.28,6.09,594,"[0, 0, 0, 0, 0]",105401.28,Manitoba,2455.15,37,78074.86,Mortgage,0,This record falls within expected operational limits.
+727,28504.96,5.03,785,"[0, 0, 0, 1, 0]",27504.96,Manitoba,1429.64,28,45945.15,Personal,0,This record falls within expected operational limits.
+728,79467.08,4.45,697,"[0, 0, 0, 0, 0]",79467.08,Alberta,646.59,41,97478.27,Business,0,This record falls within expected operational limits.
+729,111132.33,3.92,605,"[1, 0, 0, 0, 0]",110132.33,Manitoba,3598.48,30,63942.06,Business,0,This record falls within expected operational limits.
+730,28892.22,4.89,686,"[0, 0, 1, 0, 1]",26892.22,Quebec,3256.98,40,88166.7,Mortgage,0,This record falls within expected operational limits.
+731,69315.47,3.81,704,"[0, 0, 0, 0, 0]",69315.47,Quebec,4644.89,57,76094.2,Personal,0,This record falls within expected operational limits.
+732,53242.48,4.51,726,"[0, 0, 0, 0, 0]",53242.48,British Columbia,1086.87,55,66319.15,Mortgage,0,This record falls within expected operational limits.
+733,74984.79,8.04,570,"[0, 0, 0, 0, 0]",74984.79,Alberta,3274.56,26,74971.49,Mortgage,0,This record falls within expected operational limits.
+734,98965.77,2.07,632,"[0, 0, 0, 0, 1]",97965.77,Manitoba,3914.07,32,79177.94,Personal,0,This record falls within expected operational limits.
+735,97325.07,6.05,581,"[0, 0, 0, 0, 0]",97325.07,Ontario,1993.45,61,115780.0,Personal,0,This record falls within expected operational limits.
+736,101222.9,5.33,638,"[0, 0, 0, 0, 0]",101222.9,Manitoba,2830.22,25,83196.74,Business,0,This record falls within expected operational limits.
+737,119111.22,2.36,681,"[0, 1, 0, 0, 0]",118111.22,Quebec,3308.71,68,61150.23,Mortgage,0,This record falls within expected operational limits.
+738,69611.19,3.65,523,"[0, 1, 0, 0, 1]",67611.19,Quebec,3374.11,69,124975.99,Personal,0,This record falls within expected operational limits.
+739,71406.64,6.62,612,"[0, 0, 0, 0, 0]",71406.64,Ontario,348.02,61,60022.29,Business,0,This record falls within expected operational limits.
+740,50894.19,4.35,685,"[0, 0, 0, 0, 0]",50894.19,Manitoba,3436.16,51,62100.03,Mortgage,0,This record falls within expected operational limits.
+741,33867.8,4.43,633,"[0, 0, 0, 1, 0]",32867.8,British Columbia,334.68,42,87650.49,Mortgage,0,This record falls within expected operational limits.
+742,88065.8,4.9,618,"[0, 0, 0, 0, 0]",88065.8,Ontario,4693.04,43,36924.1,Mortgage,0,This record falls within expected operational limits.
+743,37125.01,10.0,751,"[0, 0, 0, 0, 0]",37125.01,Alberta,4744.68,44,102260.79,Personal,0,This record falls within expected operational limits.
+744,61302.55,5.45,656,"[0, 1, 0, 0, 0]",60302.55,British Columbia,317.35,56,61782.99,Business,0,This record falls within expected operational limits.
+745,56185.79,4.25,736,"[0, 0, 0, 0, 0]",56185.79,British Columbia,911.41,38,66663.66,Business,0,This record falls within expected operational limits.
+746,101750.49,4.83,691,"[0, 0, 0, 0, 0]",101750.49,British Columbia,3190.65,63,60239.85,Business,0,This record falls within expected operational limits.
+747,149785.94,7.35,558,"[0, 0, 0, 0, 0]",149785.94,Quebec,1713.12,31,78719.71,Mortgage,0,This record falls within expected operational limits.
+748,43298.67,6.3,663,"[0, 0, 0, 0, 1]",42298.67,Alberta,2249.05,61,136176.67,Mortgage,0,This record falls within expected operational limits.
+749,110324.13,6.58,635,"[0, 0, 0, 0, 0]",110324.13,Ontario,1954.26,58,50368.64,Personal,0,This record falls within expected operational limits.
+750,-241.23,8.18,611,"[0, 0, 0, 0, 1]",-1241.23,British Columbia,3348.46,49,116477.53,Mortgage,0,This record falls within expected operational limits.
+751,71278.13,7.75,626,"[0, 0, 0, 0, 0]",71278.13,Ontario,557.54,54,64284.89,Business,0,This record falls within expected operational limits.
+752,90471.53,5.89,696,"[0, 0, 0, 1, 0]",89471.53,Alberta,1320.17,28,140927.55,Business,0,This record falls within expected operational limits.
+753,79123.44,4.79,616,"[0, 0, 0, 0, 0]",79123.44,Alberta,1265.37,38,89871.07,Business,0,This record falls within expected operational limits.
+754,59438.98,4.01,627,"[0, 0, 0, 0, 0]",59438.98,British Columbia,1015.14,67,109097.56,Personal,0,This record falls within expected operational limits.
+755,-6077.29,6.64,676,"[0, 0, 0, 0, 0]",-6077.29,Manitoba,168.64,55,158528.59,Personal,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+756,109009.51,7.43,780,"[0, 0, 0, 1, 0]",108009.51,British Columbia,1830.5,23,58760.69,Mortgage,0,This record falls within expected operational limits.
+757,-5324.85,5.46,717,"[1, 1, 0, 0, 0]",-7324.85,Ontario,-540.64,62,58663.19,Mortgage,0,This record falls within expected operational limits.
+758,64958.69,6.15,617,"[0, 0, 0, 0, 0]",64958.69,Ontario,3825.84,70,79641.18,Business,0,This record falls within expected operational limits.
+759,88728.11,5.26,691,"[1, 0, 0, 0, 1]",86728.11,Ontario,993.94,62,80339.14,Mortgage,0,This record falls within expected operational limits.
+760,101250.0,6.25,647,"[1, 0, 1, 0, 0]",99250.0,Ontario,3767.85,57,38344.32,Mortgage,0,This record falls within expected operational limits.
+761,65898.75,3.19,615,"[1, 0, 1, 0, 0]",63898.75,Manitoba,2541.33,21,59919.45,Personal,0,This record falls within expected operational limits.
+762,66339.72,5.72,582,"[0, 0, 0, 0, 0]",66339.72,Ontario,2240.91,70,75306.34,Personal,0,This record falls within expected operational limits.
+763,102370.76,6.14,626,"[1, 0, 0, 0, 0]",101370.76,Ontario,3138.65,34,68727.11,Business,0,This record falls within expected operational limits.
+764,10619.22,6.78,703,"[0, 0, 0, 0, 0]",10619.22,Quebec,2657.75,58,60836.27,Personal,0,This record falls within expected operational limits.
+765,79849.55,1.47,629,"[0, 0, 1, 0, 0]",78849.55,Ontario,3047.66,58,42396.63,Business,0,This record falls within expected operational limits.
+766,74808.76,7.6,680,"[0, 1, 0, 0, 0]",73808.76,Quebec,1485.29,33,124200.3,Business,0,This record falls within expected operational limits.
+767,45971.83,6.0,668,"[0, 0, 0, 0, 0]",45971.83,British Columbia,-135.78,44,93503.35,Mortgage,0,This record falls within expected operational limits.
+768,62132.68,5.79,640,"[0, 0, 0, 0, 0]",62132.68,Ontario,242.81,61,56758.54,Personal,0,This record falls within expected operational limits.
+769,118413.59,5.66,705,"[0, 0, 0, 0, 0]",118413.59,Ontario,-299.26,40,106824.36,Personal,0,This record falls within expected operational limits.
+770,147943.42,5.32,476,"[0, 0, 0, 1, 1]",145943.42,British Columbia,4125.83,63,38482.64,Mortgage,0,This record falls within expected operational limits.
+771,116074.63,2.94,554,"[0, 0, 0, 0, 0]",116074.63,Alberta,651.55,46,94891.98,Mortgage,0,This record falls within expected operational limits.
+772,80731.69,6.14,517,"[0, 0, 0, 0, 0]",80731.69,Alberta,3188.98,25,68982.19,Personal,0,This record falls within expected operational limits.
+773,94873.29,3.52,661,"[0, 0, 0, 0, 0]",94873.29,Quebec,3207.18,50,82505.97,Personal,0,This record falls within expected operational limits.
+774,89007.27,4.65,782,"[0, 0, 1, 0, 0]",88007.27,Manitoba,-376.02,62,25216.29,Personal,0,This record falls within expected operational limits.
+775,110358.32,4.25,776,"[1, 0, 0, 0, 0]",109358.32,Quebec,1930.5,23,86942.97,Business,0,This record falls within expected operational limits.
+776,160400.79,6.8,766,"[0, 0, 1, 0, 0]",159400.79,Alberta,1935.61,67,93959.16,Business,0,This record falls within expected operational limits.
+777,78622.51,4.88,717,"[0, 0, 0, 0, 0]",78622.51,Ontario,3048.52,40,82055.5,Mortgage,0,This record falls within expected operational limits.
+778,35132.46,5.9,564,"[0, 1, 0, 0, 0]",34132.46,Manitoba,2680.01,66,83879.3,Mortgage,0,This record falls within expected operational limits.
+779,47738.01,5.04,717,"[0, 0, 0, 0, 1]",46738.01,Ontario,-357.64,28,124621.62,Personal,0,This record falls within expected operational limits.
+780,81005.74,6.33,678,"[0, 0, 1, 0, 1]",79005.74,Quebec,2076.88,23,101412.17,Personal,0,This record falls within expected operational limits.
+781,104067.88,5.21,669,"[0, 0, 0, 0, 0]",104067.88,Quebec,941.78,51,103956.02,Personal,0,This record falls within expected operational limits.
+782,87348.5,7.44,654,"[0, 0, 0, 0, 0]",87348.5,Manitoba,1352.74,62,40695.85,Business,0,This record falls within expected operational limits.
+783,55132.57,6.66,604,"[0, 0, 0, 0, 0]",55132.57,Alberta,-39.28,54,100691.74,Business,0,This record falls within expected operational limits.
+784,54493.46,2.97,724,"[0, 1, 0, 0, 0]",53493.46,Ontario,1656.58,25,66465.31,Business,0,This record falls within expected operational limits.
+785,46745.96,4.13,622,"[0, 0, 0, 0, 0]",46745.96,Manitoba,222.29,27,48533.65,Mortgage,0,This record falls within expected operational limits.
+786,163799.51,3.2,617,"[0, 0, 1, 0, 0]",162799.51,Quebec,2263.48,32,86452.15,Business,0,This record falls within expected operational limits.
+787,28329.78,8.35,747,"[0, 0, 0, 0, 0]",28329.78,Ontario,391.27,54,75899.21,Personal,0,This record falls within expected operational limits.
+788,34971.42,6.02,659,"[0, 0, 0, 0, 0]",34971.42,Manitoba,1481.52,26,74873.52,Mortgage,0,This record falls within expected operational limits.
+789,81189.37,4.93,765,"[0, 0, 0, 0, 0]",81189.37,Alberta,2321.01,45,69226.1,Personal,0,This record falls within expected operational limits.
+790,98958.37,4.77,673,"[0, 1, 0, 0, 0]",97958.37,Manitoba,4855.19,27,89367.34,Personal,0,This record falls within expected operational limits.
+791,21034.5,5.59,634,"[1, 0, 0, 0, 0]",20034.5,Quebec,3386.97,59,141184.81,Mortgage,0,This record falls within expected operational limits.
+792,205033.34,5.46,577,"[0, 0, 0, 0, 0]",205033.34,British Columbia,1334.42,21,66527.22,Business,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+793,98801.4,6.03,758,"[0, 0, 0, 0, 1]",97801.4,Quebec,-53.08,49,130454.03,Business,0,This record falls within expected operational limits.
+794,61037.29,5.22,625,"[0, 0, 0, 0, 0]",61037.29,British Columbia,2513.59,64,50324.88,Mortgage,0,This record falls within expected operational limits.
+795,168686.13,7.89,740,"[0, 1, 0, 0, 0]",167686.13,British Columbia,1916.69,46,36718.38,Personal,0,This record falls within expected operational limits.
+796,136509.21,4.97,628,"[0, 1, 0, 0, 0]",135509.21,Quebec,429.11,69,88169.15,Mortgage,0,This record falls within expected operational limits.
+797,-7005.77,4.25,634,"[0, 1, 0, 0, 0]",-8005.77,British Columbia,1247.18,26,78591.0,Personal,0,This record falls within expected operational limits.
+798,75313.68,3.98,507,"[1, 0, 0, 0, 0]",74313.68,British Columbia,3352.53,47,172130.17,Business,0,This record falls within expected operational limits.
+799,36298.6,6.08,644,"[0, 0, 0, 0, 0]",36298.6,Manitoba,4970.87,26,118780.88,Business,0,This record falls within expected operational limits.
+800,69691.91,8.57,715,"[0, 0, 0, 0, 0]",69691.91,Alberta,2297.21,46,39271.83,Personal,0,This record falls within expected operational limits.
+801,113153.89,6.11,650,"[0, 0, 0, 0, 0]",113153.89,Quebec,2801.91,28,95572.22,Personal,0,This record falls within expected operational limits.
+802,28845.53,3.39,787,"[0, 0, 0, 0, 0]",28845.53,Manitoba,1106.91,49,116749.22,Personal,0,This record falls within expected operational limits.
+803,40067.56,6.65,729,"[0, 0, 1, 0, 0]",39067.56,British Columbia,-1498.56,52,104846.67,Business,0,This record falls within expected operational limits.
+804,109650.9,5.23,673,"[0, 0, 0, 1, 0]",108650.9,Alberta,1750.81,58,65402.1,Business,0,This record falls within expected operational limits.
+805,81912.85,6.67,654,"[0, 0, 0, 1, 0]",80912.85,British Columbia,-396.33,40,101829.28,Personal,0,This record falls within expected operational limits.
+806,74759.36,3.82,581,"[0, 0, 0, 1, 0]",73759.36,Manitoba,3495.14,35,108954.1,Mortgage,0,This record falls within expected operational limits.
+807,73115.1,6.26,650,"[1, 0, 0, 0, 0]",72115.1,Alberta,4410.82,34,67588.52,Mortgage,0,This record falls within expected operational limits.
+808,69162.32,6.24,722,"[0, 1, 0, 0, 0]",68162.32,Alberta,3354.92,60,130808.98,Mortgage,0,This record falls within expected operational limits.
+809,115288.93,5.78,651,"[0, 1, 0, 1, 0]",113288.93,British Columbia,2595.66,65,55425.65,Mortgage,0,This record falls within expected operational limits.
+810,-17915.12,5.07,664,"[1, 0, 0, 0, 0]",-18915.12,British Columbia,211.87,50,80516.89,Business,0,This record falls within expected operational limits.
+811,81903.75,6.75,581,"[0, 0, 0, 0, 0]",81903.75,Alberta,2596.52,33,86787.06,Business,0,This record falls within expected operational limits.
+812,52434.27,10.21,821,"[0, 0, 0, 1, 0]",51434.27,Quebec,599.89,39,96864.46,Business,0,This record falls within expected operational limits.
+813,22333.74,6.64,664,"[0, 0, 0, 1, 0]",21333.74,Quebec,431.61,64,29983.61,Mortgage,0,This record falls within expected operational limits.
+814,8301.01,6.22,754,"[0, 0, 0, 0, 0]",8301.01,Ontario,3261.91,28,83319.4,Personal,0,This record falls within expected operational limits.
+815,29845.67,5.38,605,"[0, 0, 0, 0, 1]",28845.67,Alberta,2241.52,33,42876.81,Business,0,This record falls within expected operational limits.
+816,63672.89,6.92,640,"[0, 0, 1, 1, 0]",61672.89,Manitoba,3029.5,65,13477.69,Business,0,This record falls within expected operational limits.
+817,66625.61,6.1,802,"[0, 0, 0, 0, 1]",65625.61,Manitoba,3589.94,26,69929.23,Personal,0,This record falls within expected operational limits.
+818,54347.22,4.05,642,"[0, 0, 0, 0, 0]",54347.22,Alberta,617.25,33,44123.04,Business,0,This record falls within expected operational limits.
+819,15815.14,6.02,675,"[0, 0, 0, 0, 0]",15815.14,Manitoba,1782.43,63,95307.63,Business,0,This record falls within expected operational limits.
+820,80298.82,6.84,753,"[0, 1, 1, 0, 0]",78298.82,Alberta,-349.54,63,76670.77,Mortgage,0,This record falls within expected operational limits.
+821,92213.71,5.22,599,"[0, 0, 0, 0, 0]",92213.71,Quebec,2640.62,27,6032.98,Personal,0,This record falls within expected operational limits.
+822,46048.45,5.53,761,"[1, 1, 0, 0, 1]",43048.45,Ontario,210.25,46,120775.05,Business,0,This record falls within expected operational limits.
+823,98835.11,4.37,609,"[0, 0, 0, 1, 0]",97835.11,Manitoba,3457.6,69,106831.09,Mortgage,0,This record falls within expected operational limits.
+824,165519.34,6.81,650,"[1, 0, 1, 0, 0]",163519.34,Manitoba,1275.9,24,43163.14,Personal,0,This record falls within expected operational limits.
+825,92682.42,4.92,663,"[1, 0, 0, 0, 0]",91682.42,Alberta,82.44,53,74231.91,Business,0,This record falls within expected operational limits.
+826,73679.62,5.07,624,"[0, 0, 0, 1, 0]",72679.62,British Columbia,1683.08,46,55229.41,Mortgage,0,This record falls within expected operational limits.
+827,58037.13,3.92,754,"[0, 0, 1, 0, 0]",57037.13,Quebec,780.9,50,60841.4,Personal,0,This record falls within expected operational limits.
+828,78453.19,4.67,672,"[0, 0, 0, 0, 0]",78453.19,Alberta,3487.57,40,114048.18,Business,0,This record falls within expected operational limits.
+829,124597.52,2.56,715,"[0, 0, 0, 0, 0]",124597.52,Ontario,2691.41,53,110605.33,Personal,0,This record falls within expected operational limits.
+830,94369.16,6.59,654,"[0, 0, 0, 0, 0]",94369.16,Alberta,1496.44,40,79657.55,Personal,0,This record falls within expected operational limits.
+831,57525.55,6.63,631,"[0, 0, 1, 0, 0]",56525.55,Ontario,573.11,24,72238.86,Business,0,This record falls within expected operational limits.
+832,96193.28,5.4,607,"[0, 0, 0, 0, 0]",96193.28,British Columbia,3055.87,61,82423.9,Personal,0,This record falls within expected operational limits.
+833,66029.74,5.82,607,"[0, 0, 0, 0, 0]",66029.74,British Columbia,2380.72,65,107380.66,Business,0,This record falls within expected operational limits.
+834,59888.09,5.98,564,"[0, 0, 0, 0, 0]",59888.09,British Columbia,1603.74,59,150666.79,Personal,0,This record falls within expected operational limits.
+835,74520.25,4.21,544,"[0, 0, 0, 0, 0]",74520.25,Quebec,1964.83,55,84858.15,Business,0,This record falls within expected operational limits.
+836,124093.82,8.04,797,"[0, 0, 0, 0, 0]",124093.82,Quebec,1282.07,69,123975.12,Business,0,This record falls within expected operational limits.
+837,157396.77,4.37,631,"[1, 0, 1, 0, 0]",155396.77,Ontario,2597.2,53,103719.3,Personal,0,This record falls within expected operational limits.
+838,5066.6,6.52,535,"[0, 1, 1, 1, 0]",2066.6,Quebec,4109.2,28,46120.74,Business,0,This record falls within expected operational limits.
+839,8808.22,3.72,680,"[0, 0, 0, 1, 0]",7808.22,British Columbia,2008.5,69,129731.35,Business,0,This record falls within expected operational limits.
+840,52570.2,9.58,699,"[0, 0, 0, 0, 1]",51570.2,Alberta,2797.24,42,110209.77,Personal,0,This record falls within expected operational limits.
+841,107734.59,3.48,665,"[0, 0, 0, 0, 0]",107734.59,Alberta,1061.4,66,29776.49,Mortgage,0,This record falls within expected operational limits.
+842,71468.64,8.21,630,"[0, 0, 0, 0, 0]",71468.64,British Columbia,3704.4,61,25417.73,Personal,0,This record falls within expected operational limits.
+843,36065.09,6.5,730,"[0, 0, 0, 1, 0]",35065.09,Quebec,1885.24,59,111482.71,Personal,0,This record falls within expected operational limits.
+844,92004.77,3.29,738,"[0, 0, 0, 0, 1]",91004.77,Ontario,1328.31,57,83138.56,Business,0,This record falls within expected operational limits.
+845,13728.52,6.84,758,"[0, 0, 0, 0, 0]",13728.52,Ontario,1454.12,25,85103.63,Business,0,This record falls within expected operational limits.
+846,71574.67,5.92,480,"[0, 0, 0, 0, 0]",71574.67,British Columbia,3451.61,43,32512.44,Personal,0,This record falls within expected operational limits.
+847,11691.99,4.18,709,"[1, 1, 1, 0, 0]",8691.99,Ontario,1609.54,59,72784.06,Personal,0,This record falls within expected operational limits.
+848,85938.74,8.2,613,"[0, 0, 0, 0, 0]",85938.74,Quebec,2221.54,49,79636.21,Business,0,This record falls within expected operational limits.
+849,70534.34,4.41,516,"[0, 0, 0, 0, 0]",70534.34,Manitoba,3410.64,61,68963.23,Business,0,This record falls within expected operational limits.
+850,86211.05,7.17,664,"[0, 0, 1, 0, 0]",85211.05,Alberta,1847.57,21,61300.03,Personal,0,This record falls within expected operational limits.
+851,108650.78,5.1,639,"[1, 1, 0, 0, 0]",106650.78,Alberta,3380.26,47,43192.09,Business,0,This record falls within expected operational limits.
+852,99272.66,5.8,662,"[0, 1, 0, 0, 0]",98272.66,Quebec,338.02,70,85667.54,Mortgage,0,This record falls within expected operational limits.
+853,88874.39,4.95,512,"[0, 1, 0, 0, 0]",87874.39,Manitoba,-1001.53,58,66694.07,Mortgage,0,This record falls within expected operational limits.
+854,97271.83,6.38,647,"[0, 0, 0, 0, 0]",97271.83,Alberta,3030.07,62,68803.91,Mortgage,0,This record falls within expected operational limits.
+855,59370.58,4.62,620,"[0, 0, 0, 0, 0]",59370.58,Quebec,700.32,40,104410.87,Personal,0,This record falls within expected operational limits.
+856,85673.32,5.45,512,"[0, 0, 0, 0, 0]",85673.32,British Columbia,2049.69,44,95062.37,Personal,0,This record falls within expected operational limits.
+857,84901.18,4.46,701,"[0, 0, 0, 0, 1]",83901.18,Ontario,1101.87,62,44270.49,Mortgage,0,This record falls within expected operational limits.
+858,60786.26,5.44,582,"[0, 0, 1, 0, 0]",59786.26,Alberta,3119.56,36,29003.53,Personal,0,This record falls within expected operational limits.
+859,58734.13,4.41,661,"[1, 0, 0, 0, 0]",57734.13,Alberta,3867.25,62,93305.93,Personal,0,This record falls within expected operational limits.
+860,50469.64,4.98,625,"[0, 0, 1, 0, 0]",49469.64,Manitoba,2799.23,21,100883.53,Personal,0,This record falls within expected operational limits.
+861,71168.61,2.19,655,"[0, 0, 0, 0, 0]",71168.61,Manitoba,2731.65,40,68059.84,Business,0,This record falls within expected operational limits.
+862,84894.27,6.9,668,"[0, 1, 1, 1, 0]",81894.27,British Columbia,1604.92,51,73286.7,Business,0,This record falls within expected operational limits.
+863,133121.12,7.41,496,"[0, 0, 1, 0, 1]",131121.12,Manitoba,-64.64,42,92429.8,Business,0,This record falls within expected operational limits.
+864,65891.09,4.51,661,"[0, 1, 1, 0, 1]",62891.09,Quebec,4959.25,68,51158.63,Mortgage,0,This record falls within expected operational limits.
+865,13794.28,2.67,654,"[0, 1, 0, 0, 0]",12794.28,Ontario,389.02,56,107144.16,Business,0,This record falls within expected operational limits.
+866,-379.11,2.78,584,"[0, 0, 0, 0, 0]",-379.11,British Columbia,3441.46,25,97858.85,Business,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+867,15479.81,6.37,518,"[0, 0, 0, 0, 1]",14479.81,Manitoba,-1017.08,40,99256.43,Personal,0,This record falls within expected operational limits.
+868,44394.19,3.7,837,"[0, 0, 0, 1, 0]",43394.19,Alberta,2768.26,68,126837.54,Mortgage,0,This record falls within expected operational limits.
+869,3264.22,2.58,643,"[0, 0, 0, 0, 0]",3264.22,Quebec,2199.05,26,51710.88,Mortgage,0,This record falls within expected operational limits.
+870,54687.08,3.06,677,"[1, 0, 0, 1, 0]",52687.08,Manitoba,1351.48,23,42937.65,Business,0,This record falls within expected operational limits.
+871,63001.02,5.59,725,"[0, 0, 0, 1, 0]",62001.02,Ontario,6243.88,28,57173.38,Mortgage,0,This record falls within expected operational limits.
+872,91450.61,6.25,659,"[0, 0, 0, 0, 0]",91450.61,British Columbia,899.04,42,135526.39,Mortgage,0,This record falls within expected operational limits.
+873,65042.85,5.36,580,"[0, 0, 0, 0, 0]",65042.85,Alberta,2517.56,55,85256.93,Mortgage,0,This record falls within expected operational limits.
+874,132831.06,5.57,644,"[1, 0, 0, 1, 1]",129831.06,British Columbia,1870.58,50,108834.72,Mortgage,0,This record falls within expected operational limits.
+875,94712.5,4.42,727,"[0, 0, 0, 0, 0]",94712.5,Manitoba,2613.27,54,98768.23,Mortgage,0,This record falls within expected operational limits.
+876,95576.73,5.24,594,"[0, 0, 0, 0, 0]",95576.73,Ontario,2616.92,58,96553.47,Business,0,This record falls within expected operational limits.
+877,56667.37,3.81,615,"[1, 0, 0, 0, 0]",55667.37,Manitoba,1562.43,60,99504.85,Mortgage,0,This record falls within expected operational limits.
+878,82055.39,5.29,658,"[0, 0, 0, 0, 0]",82055.39,Alberta,1945.17,64,38122.61,Mortgage,0,This record falls within expected operational limits.
+879,66664.05,4.68,676,"[0, 0, 0, 1, 0]",65664.05,Quebec,1000.49,21,45290.59,Personal,0,This record falls within expected operational limits.
+880,117902.46,4.37,711,"[0, 0, 1, 0, 0]",116902.46,Quebec,3761.74,38,95102.8,Business,0,This record falls within expected operational limits.
+881,94079.0,6.84,680,"[0, 0, 0, 0, 0]",94079.0,Quebec,2552.38,22,62550.35,Personal,0,This record falls within expected operational limits.
+882,90451.78,7.53,621,"[0, 1, 0, 0, 0]",89451.78,Ontario,2105.43,22,73902.36,Personal,0,This record falls within expected operational limits.
+883,121009.4,6.9,716,"[0, 0, 0, 1, 0]",120009.4,Quebec,1361.48,62,61255.03,Mortgage,0,This record falls within expected operational limits.
+884,71611.78,5.39,724,"[0, 0, 0, 0, 0]",71611.78,Quebec,1950.19,53,64913.21,Personal,0,This record falls within expected operational limits.
+885,49756.72,6.94,643,"[0, 0, 0, 1, 1]",47756.72,British Columbia,3691.13,38,99142.92,Personal,0,This record falls within expected operational limits.
+886,43268.46,8.51,653,"[0, 0, 0, 0, 0]",43268.46,Manitoba,3453.88,70,32546.37,Personal,0,This record falls within expected operational limits.
+887,109421.49,2.09,719,"[0, 0, 0, 0, 1]",108421.49,Alberta,815.36,57,100033.4,Mortgage,0,This record falls within expected operational limits.
+888,169815.09,5.16,840,"[0, 0, 0, 0, 0]",169815.09,Manitoba,1573.38,45,78267.18,Business,0,This record falls within expected operational limits.
+889,115849.16,8.43,541,"[0, 1, 0, 0, 0]",114849.16,Quebec,3157.5,38,67896.51,Mortgage,0,This record falls within expected operational limits.
+890,107880.87,5.23,643,"[0, 0, 0, 0, 0]",107880.87,Alberta,2978.85,60,102805.19,Business,0,This record falls within expected operational limits.
+891,116083.0,4.43,661,"[0, 0, 0, 0, 0]",116083.0,British Columbia,6191.74,35,132448.11,Mortgage,0,This record falls within expected operational limits.
+892,22068.35,7.97,660,"[0, 0, 0, 0, 1]",21068.35,Ontario,2030.41,43,30915.03,Business,0,This record falls within expected operational limits.
+893,239318.65,3.51,610,"[0, 0, 0, 0, 0]",239318.65,Manitoba,4154.2,34,54689.93,Mortgage,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+894,72285.7,7.74,521,"[0, 0, 0, 0, 1]",71285.7,Quebec,2404.74,31,58487.26,Mortgage,0,This record falls within expected operational limits.
+895,100690.05,3.88,686,"[0, 0, 0, 0, 1]",99690.05,Alberta,3123.61,48,132026.42,Business,0,This record falls within expected operational limits.
+896,43672.25,5.56,535,"[0, 0, 0, 0, 0]",43672.25,Manitoba,-170.41,52,109016.3,Mortgage,0,This record falls within expected operational limits.
+897,108037.82,5.05,726,"[0, 1, 0, 0, 1]",106037.82,Ontario,2113.41,58,113334.45,Personal,0,This record falls within expected operational limits.
+898,54158.25,7.75,559,"[0, 0, 0, 1, 0]",53158.25,Alberta,1576.71,22,80008.75,Personal,0,This record falls within expected operational limits.
+899,28394.82,4.83,686,"[0, 0, 0, 0, 0]",28394.82,British Columbia,2999.1,47,105816.33,Mortgage,0,This record falls within expected operational limits.
+900,81693.82,7.44,655,"[0, 0, 1, 0, 0]",80693.82,Manitoba,2130.84,62,80959.79,Business,0,This record falls within expected operational limits.
+901,26476.98,7.17,746,"[0, 0, 0, 0, 1]",25476.98,British Columbia,1544.89,37,85350.18,Business,0,This record falls within expected operational limits.
+902,58711.9,7.81,620,"[0, 0, 0, 1, 0]",57711.9,British Columbia,505.06,38,31425.66,Mortgage,0,This record falls within expected operational limits.
+903,41428.96,3.47,553,"[0, 0, 0, 0, 0]",41428.96,Ontario,2572.84,51,103618.13,Personal,0,This record falls within expected operational limits.
+904,31975.44,7.35,655,"[1, 1, 0, 0, 0]",29975.44,Quebec,1341.37,46,94764.14,Personal,0,This record falls within expected operational limits.
+905,60264.4,4.09,509,"[0, 0, 0, 0, 1]",59264.4,Manitoba,1898.19,53,84425.96,Personal,0,This record falls within expected operational limits.
+906,53148.32,7.03,789,"[0, 0, 0, 0, 0]",53148.32,Manitoba,2131.54,49,80988.22,Mortgage,0,This record falls within expected operational limits.
+907,133209.6,5.33,643,"[0, 0, 0, 0, 0]",133209.6,Manitoba,898.47,32,93806.54,Personal,0,This record falls within expected operational limits.
+908,84926.81,5.35,680,"[0, 0, 0, 1, 0]",83926.81,Alberta,3294.0,69,23786.34,Mortgage,0,This record falls within expected operational limits.
+909,67764.77,6.77,684,"[0, 0, 0, 0, 0]",67764.77,Quebec,2555.44,22,19568.75,Mortgage,0,This record falls within expected operational limits.
+910,29460.49,4.59,562,"[0, 0, 1, 1, 0]",27460.49,Alberta,1511.6,66,93041.19,Personal,0,This record falls within expected operational limits.
+911,32290.38,3.77,754,"[0, 1, 0, 0, 0]",31290.38,Alberta,3341.64,65,46988.39,Business,0,This record falls within expected operational limits.
+912,117199.46,5.69,562,"[0, 0, 0, 1, 0]",116199.46,British Columbia,1067.45,63,68910.48,Mortgage,0,This record falls within expected operational limits.
+913,80093.2,5.17,696,"[0, 0, 0, 1, 1]",78093.2,Ontario,4152.57,40,74687.02,Business,0,This record falls within expected operational limits.
+914,82486.99,5.66,593,"[1, 0, 0, 0, 0]",81486.99,Manitoba,-1207.05,35,83640.39,Personal,0,This record falls within expected operational limits.
+915,83171.36,5.55,592,"[0, 0, 0, 0, 0]",83171.36,Quebec,3548.38,26,48999.5,Personal,0,This record falls within expected operational limits.
+916,94746.11,7.11,627,"[0, 0, 0, 0, 1]",93746.11,Manitoba,1567.44,54,117406.97,Personal,0,This record falls within expected operational limits.
+917,83844.39,6.72,578,"[0, 0, 0, 0, 0]",83844.39,Ontario,1110.82,51,132801.29,Personal,0,This record falls within expected operational limits.
+918,55015.58,5.13,615,"[0, 0, 0, 0, 0]",55015.58,British Columbia,528.1,67,113243.16,Business,0,This record falls within expected operational limits.
+919,111327.65,5.09,826,"[0, 1, 0, 0, 0]",110327.65,Manitoba,2773.81,48,92270.8,Mortgage,0,This record falls within expected operational limits.
+920,32249.09,5.49,681,"[0, 0, 0, 0, 1]",31249.09,Quebec,678.52,41,79467.43,Personal,0,This record falls within expected operational limits.
+921,137299.59,6.45,639,"[0, 0, 0, 1, 0]",136299.59,Quebec,1151.54,31,39946.27,Mortgage,0,This record falls within expected operational limits.
+922,81203.29,4.32,658,"[0, 0, 0, 1, 1]",79203.29,Quebec,2400.27,30,63077.08,Business,0,This record falls within expected operational limits.
+923,99673.92,6.9,722,"[0, 0, 0, 0, 1]",98673.92,Alberta,3487.56,53,75935.64,Mortgage,0,This record falls within expected operational limits.
+924,67920.55,5.18,591,"[0, 0, 0, 0, 1]",66920.55,Ontario,3311.12,31,67167.05,Personal,0,This record falls within expected operational limits.
+925,39667.3,3.41,671,"[0, 0, 0, 0, 1]",38667.3,British Columbia,1302.81,68,113086.91,Personal,0,This record falls within expected operational limits.
+926,66715.52,6.87,660,"[0, 1, 1, 0, 0]",64715.52,Alberta,1529.87,62,115752.23,Business,0,This record falls within expected operational limits.
+927,-20905.59,6.24,578,"[0, 0, 0, 0, 0]",-20905.59,Manitoba,3337.96,64,24250.7,Business,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+928,112399.4,5.18,690,"[1, 0, 1, 0, 0]",110399.4,British Columbia,2867.85,26,72748.79,Mortgage,0,This record falls within expected operational limits.
+929,59127.13,6.33,573,"[0, 0, 0, 0, 0]",59127.13,Alberta,2058.27,68,86814.84,Mortgage,0,This record falls within expected operational limits.
+930,82001.5,4.7,622,"[0, 0, 0, 0, 0]",82001.5,Manitoba,-739.11,57,129289.24,Mortgage,0,This record falls within expected operational limits.
+931,72927.16,7.54,542,"[0, 0, 0, 0, 1]",71927.16,British Columbia,2863.49,43,50874.42,Mortgage,0,This record falls within expected operational limits.
+932,88137.25,8.14,624,"[0, 0, 0, 1, 0]",87137.25,Quebec,4523.0,58,118241.46,Mortgage,0,This record falls within expected operational limits.
+933,56783.06,6.24,656,"[0, 0, 1, 1, 0]",54783.06,Manitoba,1339.74,40,134334.59,Business,0,This record falls within expected operational limits.
+934,120567.5,6.87,609,"[0, 1, 1, 0, 1]",117567.5,British Columbia,2348.78,24,89101.6,Personal,0,This record falls within expected operational limits.
+935,100356.19,7.9,631,"[1, 0, 0, 0, 0]",99356.19,Alberta,1939.83,54,87610.97,Personal,0,This record falls within expected operational limits.
+936,55123.87,6.42,721,"[0, 0, 0, 0, 0]",55123.87,Manitoba,2362.12,48,76559.18,Personal,0,This record falls within expected operational limits.
+937,141937.04,4.36,778,"[0, 0, 0, 1, 0]",140937.04,British Columbia,5129.05,24,59601.16,Business,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+938,76789.71,5.42,616,"[0, 0, 0, 0, 0]",76789.71,British Columbia,2180.83,70,129713.36,Personal,0,This record falls within expected operational limits.
+939,120857.12,4.77,666,"[0, 0, 0, 1, 0]",119857.12,Manitoba,4196.29,60,74108.34,Business,0,This record falls within expected operational limits.
+940,125864.97,7.84,578,"[0, 0, 0, 0, 0]",125864.97,Alberta,1471.56,30,119993.01,Mortgage,0,This record falls within expected operational limits.
+941,116476.06,9.44,571,"[0, 0, 1, 0, 0]",115476.06,Quebec,195.46,67,72059.95,Personal,0,This record falls within expected operational limits.
+942,54692.16,6.13,615,"[0, 0, 0, 0, 0]",54692.16,Ontario,3864.56,68,11524.89,Business,0,This record falls within expected operational limits.
+943,101805.66,5.83,693,"[0, 0, 0, 0, 0]",101805.66,Quebec,2889.1,48,90488.69,Mortgage,0,This record falls within expected operational limits.
+944,76547.65,6.78,636,"[0, 1, 0, 0, 0]",75547.65,British Columbia,1965.66,60,103609.54,Business,0,This record falls within expected operational limits.
+945,110720.26,6.13,638,"[1, 0, 0, 0, 1]",108720.26,Quebec,2036.48,57,46431.17,Business,0,This record falls within expected operational limits.
+946,56570.12,4.03,646,"[1, 0, 0, 0, 0]",55570.12,Quebec,4643.61,26,157781.73,Personal,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+947,123835.24,4.51,689,"[0, 0, 0, 1, 1]",121835.24,Ontario,2422.22,60,109113.09,Business,0,This record falls within expected operational limits.
+948,107028.87,6.29,705,"[0, 0, 0, 0, 1]",106028.87,Alberta,2548.88,31,71306.17,Business,0,This record falls within expected operational limits.
+949,10486.47,6.52,636,"[0, 0, 0, 0, 0]",10486.47,Alberta,-180.38,44,38655.89,Mortgage,0,This record falls within expected operational limits.
+950,105930.72,4.0,611,"[0, 1, 0, 0, 0]",104930.72,Quebec,2381.38,65,99685.2,Mortgage,0,This record falls within expected operational limits.
+951,22376.51,4.75,644,"[0, 0, 0, 0, 0]",22376.51,Ontario,1850.08,42,97976.65,Mortgage,0,This record falls within expected operational limits.
+952,85732.36,4.81,652,"[0, 0, 0, 0, 0]",85732.36,Quebec,4050.12,66,92275.24,Mortgage,0,This record falls within expected operational limits.
+953,40313.88,6.42,719,"[0, 1, 0, 0, 0]",39313.88,British Columbia,1067.11,62,72250.05,Business,0,This record falls within expected operational limits.
+954,95779.05,6.96,551,"[0, 0, 0, 0, 0]",95779.05,Ontario,-639.91,38,161333.25,Mortgage,0,This record falls within expected operational limits.
+955,54865.59,6.15,572,"[0, 0, 0, 1, 0]",53865.59,Quebec,292.19,22,58085.14,Mortgage,0,This record falls within expected operational limits.
+956,86068.21,3.99,615,"[0, 1, 0, 0, 0]",85068.21,Quebec,1986.1,50,27342.4,Personal,0,This record falls within expected operational limits.
+957,22110.13,6.48,654,"[0, 0, 0, 1, 0]",21110.13,Ontario,-558.73,32,38810.19,Mortgage,0,This record falls within expected operational limits.
+958,33742.52,7.06,724,"[0, 0, 0, 0, 1]",32742.52,Manitoba,1644.76,66,156168.88,Personal,0,This record falls within expected operational limits.
+959,42011.72,7.19,587,"[0, 0, 0, 0, 0]",42011.72,Quebec,2530.29,21,70060.94,Business,0,This record falls within expected operational limits.
+960,43187.8,5.41,662,"[0, 0, 0, 0, 0]",43187.8,Quebec,1934.56,59,56266.28,Personal,0,This record falls within expected operational limits.
+961,55259.45,4.24,684,"[0, 1, 0, 0, 1]",53259.45,Alberta,3913.09,62,109397.7,Business,0,This record falls within expected operational limits.
+962,112762.65,6.19,768,"[0, 0, 0, 1, 0]",111762.65,British Columbia,1975.13,45,50682.07,Mortgage,0,This record falls within expected operational limits.
+963,121996.17,5.86,726,"[1, 0, 0, 0, 0]",120996.17,British Columbia,3005.35,67,81251.31,Personal,0,This record falls within expected operational limits.
+964,36133.26,8.18,661,"[0, 0, 0, 0, 0]",36133.26,Alberta,2608.14,63,110886.17,Business,0,This record falls within expected operational limits.
+965,109982.47,6.63,523,"[0, 0, 0, 0, 0]",109982.47,Alberta,694.56,70,80322.91,Personal,0,This record falls within expected operational limits.
+966,114244.04,5.45,638,"[0, 0, 0, 0, 0]",114244.04,British Columbia,-722.56,31,111379.17,Business,0,This record falls within expected operational limits.
+967,119837.93,5.78,924,"[0, 1, 1, 0, 0]",117837.93,Manitoba,4625.05,70,104307.65,Personal,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+968,116113.64,2.98,642,"[0, 0, 0, 0, 0]",116113.64,Ontario,-474.12,38,110283.73,Mortgage,0,This record falls within expected operational limits.
+969,34149.63,6.47,731,"[1, 0, 0, 0, 0]",33149.63,British Columbia,5742.65,31,72479.26,Business,0,This record falls within expected operational limits.
+970,-28161.73,5.77,658,"[0, 0, 1, 0, 0]",-29161.73,Manitoba,-2077.94,60,37368.17,Business,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+971,77737.32,5.69,496,"[0, 0, 0, 0, 0]",77737.32,Ontario,3518.4,46,90920.63,Mortgage,0,This record falls within expected operational limits.
+972,40184.26,6.92,741,"[0, 0, 0, 0, 0]",40184.26,Quebec,2458.06,21,44191.2,Mortgage,0,This record falls within expected operational limits.
+973,141057.52,4.05,546,"[0, 0, 0, 1, 1]",139057.52,Ontario,-476.86,21,56669.39,Personal,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+974,4292.53,8.94,639,"[0, 1, 0, 1, 0]",2292.53,British Columbia,-473.88,68,70568.93,Mortgage,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+975,20935.45,6.99,614,"[0, 0, 1, 0, 0]",19935.45,Manitoba,1022.81,57,45680.19,Personal,0,This record falls within expected operational limits.
+976,57043.44,4.94,614,"[0, 0, 0, 0, 0]",57043.44,Manitoba,-1189.83,25,95731.36,Personal,0,This record falls within expected operational limits.
+977,91657.13,5.13,715,"[0, 0, 0, 0, 0]",91657.13,Manitoba,1158.77,22,42919.15,Mortgage,0,This record falls within expected operational limits.
+978,38943.22,4.41,553,"[0, 0, 0, 0, 0]",38943.22,Alberta,2498.33,57,62542.67,Mortgage,0,This record falls within expected operational limits.
+979,51954.06,6.49,544,"[1, 0, 0, 0, 0]",50954.06,Ontario,2000.88,55,33983.45,Personal,0,This record falls within expected operational limits.
+980,42650.79,6.64,707,"[0, 0, 0, 0, 0]",42650.79,Quebec,3153.41,68,50050.37,Personal,0,This record falls within expected operational limits.
+981,129996.44,5.54,645,"[0, 0, 0, 0, 0]",129996.44,Alberta,13.84,25,115094.45,Mortgage,0,This record falls within expected operational limits.
+982,33989.02,4.96,528,"[0, 0, 0, 0, 0]",33989.02,Manitoba,388.02,39,69889.06,Business,0,This record falls within expected operational limits.
+983,101330.74,6.2,636,"[0, 0, 0, 0, 0]",101330.74,Alberta,3893.81,53,82968.19,Mortgage,0,This record falls within expected operational limits.
+984,29050.42,3.87,671,"[0, 1, 0, 0, 1]",27050.42,Manitoba,959.55,47,97783.8,Business,0,This record falls within expected operational limits.
+985,109040.9,7.79,645,"[0, 0, 0, 0, 0]",109040.9,British Columbia,3253.2,28,98191.39,Personal,0,This record falls within expected operational limits.
+986,49073.85,8.75,659,"[0, 0, 0, 0, 0]",49073.85,Ontario,4047.48,33,86428.13,Personal,0,This record falls within expected operational limits.
+987,146568.51,5.47,679,"[0, 1, 0, 0, 0]",145568.51,Ontario,3105.07,21,77130.1,Personal,0,This record falls within expected operational limits.
+988,69009.79,5.71,583,"[0, 0, 0, 0, 0]",69009.79,Ontario,2612.3,39,93453.55,Business,0,This record falls within expected operational limits.
+989,50552.18,6.98,517,"[0, 0, 0, 0, 0]",50552.18,Alberta,2603.19,24,131424.65,Mortgage,0,This record falls within expected operational limits.
+990,163807.8,4.02,586,"[0, 1, 0, 0, 0]",162807.8,Quebec,-207.81,62,80220.99,Business,1,"This record shows an unusually high value compared to normal behavior. It exceeds typical operational ranges and falls beyond established thresholds, indicating a potential data integrity or risk concern."
+991,30943.27,4.74,568,"[0, 0, 0, 0, 0]",30943.27,Ontario,2143.37,49,29748.51,Mortgage,0,This record falls within expected operational limits.
+992,84910.54,5.87,625,"[0, 0, 0, 0, 1]",83910.54,Quebec,2128.12,34,112047.72,Business,0,This record falls within expected operational limits.
+993,108114.85,2.78,671,"[0, 0, 0, 0, 0]",108114.85,Quebec,2507.73,68,28246.44,Business,0,This record falls within expected operational limits.
+994,86093.76,7.15,526,"[0, 0, 0, 0, 1]",85093.76,Manitoba,3322.58,33,88108.72,Mortgage,0,This record falls within expected operational limits.
+995,103946.85,7.49,657,"[0, 0, 0, 0, 0]",103946.85,Alberta,2188.43,51,114300.62,Mortgage,0,This record falls within expected operational limits.
+996,101489.55,4.35,659,"[0, 0, 0, 0, 0]",101489.55,Manitoba,873.85,54,128878.61,Business,0,This record falls within expected operational limits.
+997,63759.92,5.79,682,"[0, 0, 1, 0, 1]",61759.92,Ontario,1720.37,66,66529.96,Personal,0,This record falls within expected operational limits.
+998,79258.15,5.81,635,"[0, 0, 0, 0, 0]",79258.15,British Columbia,924.16,41,105836.36,Mortgage,0,This record falls within expected operational limits.
+999,58115.21,8.59,747,"[0, 0, 0, 0, 0]",58115.21,Alberta,3345.88,46,59805.17,Mortgage,0,This record falls within expected operational limits.
+1000,80242.9,2.7,775,"[0, 0, 0, 0, 0]",80242.9,Quebec,2754.07,49,50867.96,Personal,0,This record falls within expected operational limits.
